@@ -15,7 +15,7 @@ There are several stations in each AMR. -> Take the daily mean over all stations
 
 temperature for each AMR
 
-------------------------------------------------------------------------------------------------------------------------
+----------------
 
 winddfv1.csv: The unbalanced panel data of AMR against wind data.
 
