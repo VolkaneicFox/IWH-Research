@@ -3,6 +3,7 @@ Datasets used in papers written in IWH Halle (Saale)
 
 AMR_coords: The labour market regions in DE with their capital/major city and the respective geo-coordinates
 
+
 ------------------------------------------------------------------------------------------------------------------------
 MethodologyV1: 
 --------------
@@ -17,10 +18,10 @@ temperature for each AMR
 
 ----------------
 
-winddfv1.csv: The unbalanced panel data of AMR against wind data.
+winddfv1.csv [2311972 rows x 4 columns]: The unbalanced panel data of AMR against wind data.
 
-precdfv1.csv: The unbalanced panel data of AMR against precipitation data.
+precdfv1.csv [1930156 rows x 4 columns]: The unbalanced panel data of AMR against precipitation data.
 
-temperaturedfv1.csv: The unbalanced panel data of AMR against temperature data.
+temperaturedfv1.csv [1794578 rows x 7 columns]: The unbalanced panel data of AMR against temperature data.
 
 ------------------------------------------------------------------------------------------------------------------------
