@@ -5,3 +5,9 @@ AMR_coords: The labour market regions in DE with their capital/major city and th
 
 
 AMR_panel_dims: The number of observations under temperature, precipitation and wind, for each AMR
+
+
+MethodologyV1: There are several stations in each AMR. -> Take the daily mean over all stations within one AMR -> generates the daily temperature for each AMR
+
+
+temperaturedfv1.csv: The unbalanced panel data of AMR against weather data. 
