@@ -8,11 +8,12 @@ AMR_panel_dims: The number of observations under temperature, precipitation and 
 
 ------------------------------------------------------------------------------------------------------------------------
 MethodologyV1: There are several stations in each AMR. -> Take the daily mean over all stations within one AMR -> generates the daily temperature for each AMR
-
+------------------------------------------------------------------------------------------------------------------------
 
 winddfv1.csv: The unbalanced panel data of AMR against wind data.
 
 precdfv1.csv: The unbalanced panel data of AMR against precipitation data.
 
 temperaturedfv1.csv: The unbalanced panel data of AMR against temperature data.
+
 ------------------------------------------------------------------------------------------------------------------------
