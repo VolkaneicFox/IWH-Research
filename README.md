@@ -3,11 +3,11 @@ Datasets used in papers written in IWH Halle (Saale)
 
 [DATA_FILE]AMR_coords: The labour market regions in DE with their capital/major city and the respective geo-coordinates
 
-[DATA_FILE]stations91v2.csv: The directory of stations with the station ID and coordinates of every station. 
+[DATA_FILE]stations91v2.csv: The directory of weather stations with the station ID and coordinates of every weather station. 
 
-[DATA_FILE]Stations_AMR.csv: The directory of stations mapped to the respective AMR with key and AMR name
+[DATA_FILE]Stations_AMR.csv: The directory of weather stations mapped to the respective AMR with key and AMR name
 
-The stations are matched via location proximity to the major city in each AMR and then the AMR_key is assigned to each station.
+The weather stations are matched via location proximity to the major city in each AMR and then the AMR_key is assigned to each weather station.
 
 ------------------------------------------------------------------------------------------------------------------------
 MethodologyV1: 
