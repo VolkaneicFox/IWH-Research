@@ -2,15 +2,15 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00003|18910101|20110331|202|50.7827|6.0941|Aachen|Nordrhein-Westfalen
 
-00011|19800901|20200930|680|47.9736|8.5205|Donaueschingen_(Landeplatz)|Baden-Württemberg
+00011|19800901|20200930|680|47.9736|8.5205|Donaueschingen_(Landeplatz)|Baden-WÃ¼rttemberg
 
-00044|19690101|20221030|44|52.9336|8.2370|Großenkneten|Niedersachsen
+00044|19690101|20221030|44|52.9336|8.2370|GroÃŸenkneten|Niedersachsen
 
 00052|19690101|20011231|46|53.6623|10.1990|Ahrensburg-Wulfsdorf|Schleswig-Holstein
 
-00071|19861101|20191231|759|48.2156|8.9784|Albstadt-Badkap|Baden-Württemberg
+00071|19861101|20191231|759|48.2156|8.9784|Albstadt-Badkap|Baden-WÃ¼rttemberg
 
-00072|19780901|19950531|794|48.2766|9.0001|Albstadt-Onstmettingen|Baden-Württemberg
+00072|19780901|19950531|794|48.2766|9.0001|Albstadt-Onstmettingen|Baden-WÃ¼rttemberg
 
 00073|19590301|20221030|340|48.6159|13.0506|Aldersbach-Kriestorf|Bayern
 
@@ -34,7 +34,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00131|20041101|20221030|296|51.0881|12.9326|Geringswalde-Altgeringswalde|Sachsen
 
-00142|19550101|20221030|511|48.4060|11.3117|Altomünster-Maisbrunn|Bayern
+00142|19550101|20221030|511|48.4060|11.3117|AltomÃ¼nster-Maisbrunn|Bayern
 
 00150|19510101|20221030|215|49.7273|8.1164|Alzey|Rheinland-Pfalz
 
@@ -44,7 +44,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00161|19801201|20221030|75|50.4237|7.4202|Andernach|Rheinland-Pfalz
 
-00164|19080517|20221030|54|53.0316|13.9908|Angermünde|Brandenburg
+00164|19080517|20221030|54|53.0316|13.9908|AngermÃ¼nde|Brandenburg
 
 00167|20040901|20221030|11|53.8409|13.6854|Anklam|Mecklenburg-Vorpommern
 
@@ -58,15 +58,15 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00186|18800101|19980930|218|51.3773|8.0713|Arnsberg|Nordrhein-Westfalen
 
-00191|19860401|20221030|217|49.9694|9.9114|Arnstein-Müdesheim|Bayern
+00191|19860401|20221030|217|49.9694|9.9114|Arnstein-MÃ¼desheim|Bayern
 
 00193|19680101|19971031|232|51.3845|9.0820|Arolsen-Neu_Berich|Hessen
 
 00197|19900801|20221030|365|51.3219|9.0558|Arolsen-Volkhardinghausen,_Bad|Hessen
 
-00198|19540101|20221030|164|51.3744|11.2920|Artern|Thüringen
+00198|19540101|20221030|164|51.3744|11.2920|Artern|ThÃ¼ringen
 
-00211|19810901|19991231|200|50.5800|8.4685|Aßlar_Klein-Altenstädten|Hessen
+00211|19810901|19991231|200|50.5800|8.4685|AÃŸlar_Klein-AltenstÃ¤dten|Hessen
 
 00217|19410101|20221030|670|47.8774|11.3643|Attenkam|Bayern
 
@@ -76,11 +76,11 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00243|19580901|20061231|4|53.4621|7.4670|Aurich|Niedersachsen
 
-00257|19490101|20221030|240|48.7270|8.2457|Baden-Baden-Geroldsau|Baden-Württemberg
+00257|19490101|20221030|240|48.7270|8.2457|Baden-Baden-Geroldsau|Baden-WÃ¼rttemberg
 
-00259|19470101|20221030|275|47.8064|7.6387|Müllheim|Baden-Württemberg
+00259|19470101|20221030|275|47.8064|7.6387|MÃ¼llheim|Baden-WÃ¼rttemberg
 
-00268|19540101|20081231|622|48.5293|8.2727|Baiersbronn-Obertal|Baden-Württemberg
+00268|19540101|20081231|622|48.5293|8.2727|Baiersbronn-Obertal|Baden-WÃ¼rttemberg
 
 00282|19490101|20221030|240|49.8743|10.9206|Bamberg|Bayern
 
@@ -92,7 +92,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00303|19930820|20221027|54|52.0613|13.4997|Baruth|Brandenburg
 
-00314|19360101|20221030|234|51.1604|14.5042|Kubschütz,_Kr._Bautzen|Sachsen
+00314|19360101|20221030|234|51.1604|14.5042|KubschÃ¼tz,_Kr._Bautzen|Sachsen
 
 00320|18790101|20221030|350|49.9666|11.5198|Heinersreuth-Vollhof|Bayern
 
@@ -104,7 +104,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00330|19370101|20221030|455|49.5617|8.9673|Oberzent-Beerfelden|Hessen
 
-00341|19680201|19930131|235|47.7277|7.5520|Bellingen,_Bad|Baden-Württemberg
+00341|19680201|19930131|235|47.7277|7.5520|Bellingen,_Bad|Baden-WÃ¼rttemberg
 
 00342|20101201|20221030|103|52.3170|8.1694|Belm|Niedersachsen
 
@@ -120,9 +120,9 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00377|19470101|20221030|210|49.1070|7.9967|Bergzabern,_Bad|Rheinland-Pfalz
 
-00379|19540701|20221030|304|50.9075|11.2665|Berka,_Bad_(Flugplatz)|Thüringen
+00379|19540701|20221030|304|50.9075|11.2665|Berka,_Bad_(Flugplatz)|ThÃ¼ringen
 
-00390|19861201|20221030|610|50.9837|8.3683|Berleburg,_Bad-Stünzel|Nordrhein-Westfalen
+00390|19861201|20221030|610|50.9837|8.3683|Berleburg,_Bad-StÃ¼nzel|Nordrhein-Westfalen
 
 00399|19750101|20150630|36|52.5198|13.4057|Berlin-Alexanderplatz|Berlin
 
@@ -156,57 +156,57 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00502|19670801|20061231|412|49.8747|9.4883|Bischbrunn|Bayern
 
-00508|19940401|20101231|675|50.0539|11.8149|Bischofsgrün|Bayern
+00508|19940401|20101231|675|50.0539|11.8149|BischofsgrÃ¼n|Bayern
 
 00524|19470101|19921231|80|51.6333|12.3167|Bitterfeld|Sachsen-Anhalt
 
 00535|19470101|20221030|417|50.0372|7.3079|Blankenrath|Rheinland-Pfalz
 
-00550|19940501|20020930|344|50.9041|11.7985|Bobeck|Thüringen
+00550|19940501|20020930|344|50.9041|11.7985|Bobeck|ThÃ¼ringen
 
 00554|19470101|20060228|23|51.8293|6.5365|Bocholt-Liedern_(Wasserwerk)|Nordrhein-Westfalen
 
 00555|19400101|20181031|109|51.5025|7.2290|Bochum|Nordrhein-Westfalen
 
-00576|19870801|20031231|445|48.6759|8.9732|Böblingen|Baden-Württemberg
+00576|19870801|20031231|445|48.6759|8.9732|BÃ¶blingen|Baden-WÃ¼rttemberg
 
 00588|19920501|19960731|105|51.7520|9.3953|Boffzen|Niedersachsen
 
 00591|19470101|20221030|45|53.3911|10.6878|Boizenburg|Mecklenburg-Vorpommern
 
-00594|19930101|20000301|425|48.6407|9.6136|Boll,_Bad_(KKst)|Baden-Württemberg
+00594|19930101|20000301|425|48.6407|9.6136|Boll,_Bad_(KKst)|Baden-WÃ¼rttemberg
 
 00596|19470101|20221030|15|54.0027|11.1908|Boltenhagen|Mecklenburg-Vorpommern
 
 00599|19321001|19990301|62|50.7055|7.1467|Bonn-Friesdorf|Nordrhein-Westfalen
 
-00601|19740101|20031031|158|50.6983|7.0356|Bonn-Hardthöhe|Nordrhein-Westfalen
+00601|19740101|20031031|158|50.6983|7.0356|Bonn-HardthÃ¶he|Nordrhein-Westfalen
 
-00603|19860801|20221030|147|50.7293|7.2040|Königswinter-Heiderhof|Nordrhein-Westfalen
+00603|19860801|20221030|147|50.7293|7.2040|KÃ¶nigswinter-Heiderhof|Nordrhein-Westfalen
 
-00604|19710101|20051031|875|47.8194|8.3348|Bonndorf/Schwarzwald|Baden-Württemberg
+00604|19710101|20051031|875|47.8194|8.3348|Bonndorf/Schwarzwald|Baden-WÃ¼rttemberg
 
-00614|19510101|20071231|240|51.5709|9.3120|Borgentreich-Bühne|Nordrhein-Westfalen
+00614|19510101|20071231|240|51.5709|9.3120|Borgentreich-BÃ¼hne|Nordrhein-Westfalen
 
 00617|20040601|20221030|47|51.8730|6.8863|Borken_in_Westfalen|Nordrhein-Westfalen
 
-00619|19470101|20221030|12|53.5788|6.6703|Borkum-Süderstraße|Niedersachsen
+00619|19470101|20221030|12|53.5788|6.6703|Borkum-SÃ¼derstraÃŸe|Niedersachsen
 
-00634|19800301|19910331|373|49.4442|9.6458|Boxberg-Seehof|Baden-Württemberg
+00634|19800301|19910331|373|49.4442|9.6458|Boxberg-Seehof|Baden-WÃ¼rttemberg
 
-00636|19811101|19910331|373|49.4500|9.6500|Boxberg-Seehof_(Wind-3m)|Baden-Württemberg
+00636|19811101|19910331|373|49.4500|9.6500|Boxberg-Seehof_(Wind-3m)|Baden-WÃ¼rttemberg
 
 00642|19660101|20221030|1|53.3517|8.4969|Brake|Niedersachsen
 
-00643|19931101|19941231|0|53.2960|8.4529|Brake-Süderfeld|Niedersachsen
+00643|19931101|19941231|0|53.2960|8.4529|Brake-SÃ¼derfeld|Niedersachsen
 
-00648|19630501|20061231|9|53.8551|9.7152|Brande-Hörnerkirchen|Schleswig-Holstein
+00648|19630501|20061231|9|53.8551|9.7152|Brande-HÃ¶rnerkirchen|Schleswig-Holstein
 
-00650|19480701|20010430|35|52.4136|12.5503|Brandenburg-Görden|Brandenburg
+00650|19480701|20010430|35|52.4136|12.5503|Brandenburg-GÃ¶rden|Brandenburg
 
 00656|19310101|20221030|607|51.7234|10.6021|Braunlage|Niedersachsen
 
-00657|19550101|20031231|625|51.6634|10.6690|Braunlage-Hohegeiß|Niedersachsen
+00657|19550101|20031231|625|51.6634|10.6690|Braunlage-HohegeiÃŸ|Niedersachsen
 
 00662|19610101|20221030|81|52.2915|10.4464|Braunschweig|Niedersachsen
 
@@ -216,43 +216,43 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00701|19490101|20221030|7|53.5332|8.5761|Bremerhaven|Bremen
 
-00704|19790401|20221030|11|53.4451|9.1390|Bremervörde|Niedersachsen
+00704|19790401|20221030|11|53.4451|9.1390|BremervÃ¶rde|Niedersachsen
 
-00705|19850601|20061231|5|53.5312|9.1664|Bremervörde-Niederochtenhausen|Niedersachsen
+00705|19850601|20061231|5|53.5312|9.1664|BremervÃ¶rde-Niederochtenhausen|Niedersachsen
 
-00706|19690901|20041231|234|47.8858|7.6611|Eschbach|Baden-Württemberg
+00706|19690901|20041231|234|47.8858|7.6611|Eschbach|Baden-WÃ¼rttemberg
 
-00710|19831101|20031231|182|49.0249|8.6990|Bretten|Baden-Württemberg
+00710|19831101|20031231|182|49.0249|8.6990|Bretten|Baden-WÃ¼rttemberg
 
 00717|19370101|20040630|443|51.3873|8.5737|Brilon|Nordrhein-Westfalen
 
 00722|18960101|20221030|1135|51.7986|10.6183|Brocken|Sachsen-Anhalt
 
-00736|19350101|19991231|390|49.6303|7.1148|Brücken|Rheinland-Pfalz
+00736|19350101|19991231|390|49.6303|7.1148|BrÃ¼cken|Rheinland-Pfalz
 
-00743|19750101|20010928|73|51.2000|6.1333|Brüggen_(Flugplatz)|Nordrhein-Westfalen
+00743|19750101|20010928|73|51.2000|6.1333|BrÃ¼ggen_(Flugplatz)|Nordrhein-Westfalen
 
-00748|19660101|20080930|5|53.8887|9.1411|Brunsbüttel_(Schleuse)|Schleswig-Holstein
+00748|19660101|20080930|5|53.8887|9.1411|BrunsbÃ¼ttel_(Schleuse)|Schleswig-Holstein
 
-00755|19350101|20221030|340|49.5182|9.3213|Buchen,_Kr._Neckar-Odenwald|Baden-Württemberg
+00755|19350101|20221030|340|49.5182|9.3213|Buchen,_Kr._Neckar-Odenwald|Baden-WÃ¼rttemberg
 
-00757|19901001|20221030|445|47.9625|7.9983|Buchenbach|Baden-Württemberg
+00757|19901001|20221030|445|47.9625|7.9983|Buchenbach|Baden-WÃ¼rttemberg
 
 00760|19760601|20221030|82|53.3629|9.9435|Rosengarten-Klecken|Niedersachsen
 
-00766|19650101|20221030|477|50.1745|7.0595|Büchel_(Flugplatz)|Rheinland-Pfalz
+00766|19650101|20221030|477|50.1745|7.0595|BÃ¼chel_(Flugplatz)|Rheinland-Pfalz
 
-00769|19720101|20221030|68|52.2817|9.0890|Bückeburg|Niedersachsen
+00769|19720101|20221030|68|52.2817|9.0890|BÃ¼ckeburg|Niedersachsen
 
-00773|19860501|20041231|478|48.6743|8.1799|Bühlertal-Obertal|Baden-Württemberg
+00773|19860501|20041231|478|48.6743|8.1799|BÃ¼hlertal-Obertal|Baden-WÃ¼rttemberg
 
-00781|19880101|19940331|221|51.6126|8.6190|Bühren-Ahden|Nordrhein-Westfalen
+00781|19880101|19940331|221|51.6126|8.6190|BÃ¼hren-Ahden|Nordrhein-Westfalen
 
-00788|19650101|20221030|3|54.1193|8.8584|Büsum|Schleswig-Holstein
+00788|19650101|20221030|3|54.1193|8.8584|BÃ¼sum|Schleswig-Holstein
 
 00793|19920101|19941031|530|49.6620|7.1098|Buhlenberg|Rheinland-Pfalz
 
-00807|19410101|20061231|290|49.7450|10.6434|Schlüsselfeld_(Kläranlage)|Bayern
+00807|19410101|20061231|290|49.7450|10.6434|SchlÃ¼sselfeld_(KlÃ¤ranlage)|Bayern
 
 00817|19521001|20221030|293|51.0306|8.8146|Burgwald-Bottendorf|Hessen
 
@@ -278,13 +278,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00880|18870101|20221030|69|51.7759|14.3168|Cottbus|Brandenburg
 
-00881|19500101|20031231|423|49.0985|10.0979|Crailsheim-Alexandersreut|Baden-Württemberg
+00881|19500101|20031231|423|49.0985|10.0979|Crailsheim-Alexandersreut|Baden-WÃ¼rttemberg
 
 00888|19650101|19911216|269|50.8149|12.3821|Crimmitschau|Sachsen
 
 00891|19460101|20221030|5|53.8713|8.7060|Cuxhaven|Niedersachsen
 
-00896|19490701|20221030|170|51.0778|10.8619|Dachwig|Thüringen
+00896|19490701|20221030|170|51.0778|10.8619|Dachwig|ThÃ¼ringen
 
 00909|19860101|19931130|54|54.0551|10.2984|Damsdorf|Schleswig-Holstein
 
@@ -294,7 +294,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00927|19851001|20001231|430|50.1957|6.8279|Daun|Rheinland-Pfalz
 
-00931|19890801|20031231|712|47.8007|9.4108|Deggenhausertal-Azenweiler|Baden-Württemberg
+00931|19890801|20031231|712|47.8007|9.4108|Deggenhausertal-Azenweiler|Baden-WÃ¼rttemberg
 
 00950|19850101|19930228|194|51.9500|8.9000|Detmold|Nordrhein-Westfalen
 
@@ -316,19 +316,19 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 00991|19540901|20221030|359|50.9116|13.7087|Dippoldiswalde-Reinberg|Sachsen
 
-00998|19480101|20090201|696|48.7968|8.4921|Dobel|Baden-Württemberg
+00998|19480101|20090201|696|48.7968|8.4921|Dobel|Baden-WÃ¼rttemberg
 
 01000|19910701|19970831|3|54.1442|11.8454|Doberan,_Bad-Heiligendamm|Mecklenburg-Vorpommern
 
 01001|19480701|20221030|97|51.6451|13.5747|Doberlug-Kirchhain|Brandenburg
 
-01010|19870401|20080923|5|52.9732|7.3209|Dörpen_(Kläranlage)|Niedersachsen
+01010|19870401|20080923|5|52.9732|7.3209|DÃ¶rpen_(KlÃ¤ranlage)|Niedersachsen
 
-01011|19901011|20221030|442|49.6017|7.7413|Dörrmoschel-Felsbergerhof|Rheinland-Pfalz
+01011|19901011|20221030|442|49.6017|7.7413|DÃ¶rrmoschel-Felsbergerhof|Rheinland-Pfalz
 
-01013|19800401|20221030|309|47.6026|8.1697|Dogern|Baden-Württemberg
+01013|19800401|20221030|309|47.6026|8.1697|Dogern|Baden-WÃ¼rttemberg
 
-01018|19510101|20041231|677|47.9422|8.5046|Donaueschingen|Baden-Württemberg
+01018|19510101|20041231|677|47.9422|8.5046|Donaueschingen|Baden-WÃ¼rttemberg
 
 01032|19500101|19990930|120|51.5120|7.5345|Dortmund|Nordrhein-Westfalen
 
@@ -344,23 +344,23 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01053|19370101|20030731|192|51.7337|9.0445|Driburg,_Bad|Nordrhein-Westfalen
 
-01072|19520101|20221030|107|49.4719|8.1929|Dürkheim,_Bad|Rheinland-Pfalz
+01072|19520101|20221030|107|49.4719|8.1929|DÃ¼rkheim,_Bad|Rheinland-Pfalz
 
-01076|19360801|20081231|692|48.0135|8.5343|Dürrheim,_Bad|Baden-Württemberg
+01076|19360801|20081231|692|48.0135|8.5343|DÃ¼rrheim,_Bad|Baden-WÃ¼rttemberg
 
-01078|19520101|20221030|37|51.2960|6.7686|Düsseldorf|Nordrhein-Westfalen
+01078|19520101|20221030|37|51.2960|6.7686|DÃ¼sseldorf|Nordrhein-Westfalen
 
-01079|19350101|19960731|37|51.1998|6.7574|Düsseldorf-Südfriedhof|Nordrhein-Westfalen
+01079|19350101|19960731|37|51.1998|6.7574|DÃ¼sseldorf-SÃ¼dfriedhof|Nordrhein-Westfalen
 
 01084|19940501|20070531|31|51.3940|6.7026|Duisburg-Friemersheim|Nordrhein-Westfalen
 
 01087|19510101|19931231|21|51.4634|6.7321|Duisburg-Laar|Nordrhein-Westfalen
 
-01091|19511001|20071231|258|51.2806|10.7362|Ebeleben|Thüringen
+01091|19511001|20071231|258|51.2806|10.7362|Ebeleben|ThÃ¼ringen
 
-01093|19510101|20051031|131|49.4593|8.9595|Eberbach|Baden-Württemberg
+01093|19510101|20051031|131|49.4593|8.9595|Eberbach|Baden-WÃ¼rttemberg
 
-01102|19871101|20021231|300|48.7201|9.5328|Ebersbach/Fils|Baden-Württemberg
+01102|19871101|20021231|300|48.7201|9.5328|Ebersbach/Fils|Baden-WÃ¼rttemberg
 
 01103|19780101|20221030|592|48.1003|11.9872|Ebersberg-Halbing|Bayern
 
@@ -370,27 +370,27 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01130|19720401|20050131|17|54.6282|9.3649|Eggebek|Schleswig-Holstein
 
-01161|19550101|20221030|384|48.8777|11.2349|Eichstätt-Landershofen|Bayern
+01161|19550101|20221030|384|48.8777|11.2349|EichstÃ¤tt-Landershofen|Bayern
 
 01163|19761101|20070224|4|54.2667|8.8500|Eidersperrwerk|Schleswig-Holstein
 
-01169|19760201|19990930|264|47.6288|7.5959|Eimeldingen|Baden-Württemberg
+01169|19760201|19990930|264|47.6288|7.5959|Eimeldingen|Baden-WÃ¼rttemberg
 
 01182|19470101|20010531|146|51.5029|11.5705|Eisleben-Helfta|Sachsen-Anhalt
 
-01197|19410101|20221030|463|48.9895|10.1312|Ellwangen-Rindelbach|Baden-Württemberg
+01197|19410101|20221030|463|48.9895|10.1312|Ellwangen-Rindelbach|Baden-WÃ¼rttemberg
 
-01200|19980101|20221030|3|54.0691|9.0105|Elpersbüttel|Schleswig-Holstein
+01200|19980101|20221030|3|54.0691|9.0105|ElpersbÃ¼ttel|Schleswig-Holstein
 
 01201|19470701|20001231|85|50.9281|6.5646|Elsdorf/Erftkreis|Nordrhein-Westfalen
 
 01207|19480601|20221030|558|50.2705|12.2742|Elster,_Bad-Sohl|Sachsen
 
-01214|19871101|20221030|431|48.2012|8.1088|Elzach-Fisnacht|Baden-Württemberg
+01214|19871101|20221030|431|48.2012|8.1088|Elzach-Fisnacht|Baden-WÃ¼rttemberg
 
 01219|19470101|19980310|5|53.3449|7.1909|Emden-Nesserland|Niedersachsen
 
-01224|19751101|20221030|201|48.1378|7.8351|Emmendingen-Mundingen|Baden-Württemberg
+01224|19751101|20221030|201|48.1378|7.8351|Emmendingen-Mundingen|Baden-WÃ¼rttemberg
 
 01228|20000701|20220518|0|54.1651|6.3460|UFS_TW_Ems|Hamburg
 
@@ -398,25 +398,25 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01238|19510101|19960930|144|50.9884|7.4250|Engelskirchen|Nordrhein-Westfalen
 
-01239|19860801|20080922|540|47.8516|8.7673|Engen/Hegau|Baden-Württemberg
+01239|19860801|20080922|540|47.8516|8.7673|Engen/Hegau|Baden-WÃ¼rttemberg
 
 01246|20150801|20221030|104|51.8418|8.0607|Ennigerloh-Ostenfelde|Nordrhein-Westfalen
 
-01254|19470701|20021130|210|49.1307|8.9165|Eppingen|Baden-Württemberg
+01254|19470701|20021130|210|49.1307|8.9165|Eppingen|Baden-WÃ¼rttemberg
 
-01255|20021201|20221030|226|49.1661|8.8483|Eppingen-Elsenz|Baden-Württemberg
+01255|20021201|20221030|226|49.1661|8.8483|Eppingen-Elsenz|Baden-WÃ¼rttemberg
 
 01261|19690101|19920731|460|48.3192|11.9440|Erding|Bayern
 
-01262|19920517|20221030|446|48.3477|11.8134|München-Flughafen|Bayern
+01262|19920517|20221030|446|48.3477|11.8134|MÃ¼nchen-Flughafen|Bayern
 
 01266|19640501|20221030|18|54.2992|9.3162|Erfde|Schleswig-Holstein
 
-01270|19510101|20221030|316|50.9829|10.9608|Erfurt-Weimar|Thüringen
+01270|19510101|20221030|316|50.9829|10.9608|Erfurt-Weimar|ThÃ¼ringen
 
-01276|19800801|20021231|408|47.6358|9.5392|Eriskirch-Mariabrunn|Baden-Württemberg
+01276|19800801|20021231|408|47.6358|9.5392|Eriskirch-Mariabrunn|Baden-WÃ¼rttemberg
 
-01279|19490101|20221030|268|49.6497|11.0075|Möhrendorf-Kleinseebach|Bayern
+01279|19490101|20221030|268|49.6497|11.0075|MÃ¶hrendorf-Kleinseebach|Bayern
 
 01281|19820101|20010430|284|49.5653|10.9729|Erlangen-Frauenaurach|Bayern
 
@@ -438,13 +438,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01332|19660701|20221030|471|48.4832|12.7241|Falkenberg,Kr.Rottal-Inn|Bayern
 
-01339|19710101|20221030|76|52.9157|10.1885|Faßberg|Niedersachsen
+01339|19710101|20221030|76|52.9157|10.1885|FaÃŸberg|Niedersachsen
 
 01341|20081201|20110929|0|54.6000|11.1500|Fehmarnbelt|Schleswig-Holstein
 
-01346|19450101|20221030|1490|47.8749|8.0038|Feldberg/Schwarzwald|Baden-Württemberg
+01346|19450101|20221030|1490|47.8749|8.0038|Feldberg/Schwarzwald|Baden-WÃ¼rttemberg
 
-01357|19480101|20221030|655|49.9807|11.8376|Fichtelberg/Oberfranken-Hüttstadl|Bayern
+01357|19480101|20221030|655|49.9807|11.8376|Fichtelberg/Oberfranken-HÃ¼ttstadl|Bayern
 
 01358|18900801|20221030|1213|50.4283|12.9536|Fichtelberg|Sachsen
 
@@ -454,39 +454,39 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01378|19850701|20061231|45|54.8086|9.4182|Flensburg|Schleswig-Holstein
 
-01379|19570101|20221030|41|54.7737|9.3752|Flensburg_(Schäferhaus)|Schleswig-Holstein
+01379|19570101|20221030|41|54.7737|9.3752|Flensburg_(SchÃ¤ferhaus)|Schleswig-Holstein
 
-01392|19871001|20061231|621|49.7316|12.3489|Flossenbürg|Bayern
+01392|19871001|20061231|621|49.7316|12.3489|FlossenbÃ¼rg|Bayern
 
-01410|19540701|19970331|130|51.3512|11.0958|Frankenhausen/Kyffhäuser,_Bad|Thüringen
+01410|19540701|19970331|130|51.3512|11.0958|Frankenhausen/KyffhÃ¤user,_Bad|ThÃ¼ringen
 
-01411|19491001|20221030|747|50.5309|10.0479|Birx/Rhön|Thüringen
+01411|19491001|20221030|747|50.5309|10.0479|Birx/RhÃ¶n|ThÃ¼ringen
 
 01420|19490101|20221030|100|50.0259|8.5213|Frankfurt/Main|Hessen
 
 01424|19851101|20221030|124|50.1269|8.6694|Frankfurt/Main-Westend|Hessen
 
-01440|19710501|20031231|476|48.2018|7.9336|Freiamt-Ottoschwanden|Baden-Württemberg
+01440|19710501|20031231|476|48.2018|7.9336|Freiamt-Ottoschwanden|Baden-WÃ¼rttemberg
 
 01441|19450701|19930430|416|50.9263|13.2711|Freiberg|Sachsen
 
-01443|18740101|20221030|237|48.0232|7.8343|Freiburg|Baden-Württemberg
+01443|18740101|20221030|237|48.0232|7.8343|Freiburg|Baden-WÃ¼rttemberg
 
 01451|19701101|20221030|2|53.8277|9.2493|Freiburg/Elbe|Niedersachsen
 
-01467|19480101|20091231|736|48.4607|8.4141|Freudenstadt-Kurgarten|Baden-Württemberg
+01467|19480101|20091231|736|48.4607|8.4141|Freudenstadt-Kurgarten|Baden-WÃ¼rttemberg
 
-01468|19490101|20221030|797|48.4538|8.4090|Freudenstadt|Baden-Württemberg
+01468|19490101|20221030|797|48.4538|8.4090|Freudenstadt|Baden-WÃ¼rttemberg
 
 01473|20060101|20190228|414|49.1869|11.3080|Freystadt-Michelbach|Bayern
 
-01481|19710101|19981231|928|47.9216|8.2547|Friedenweiler|Baden-Württemberg
+01481|19710101|19981231|928|47.9216|8.2547|Friedenweiler|Baden-WÃ¼rttemberg
 
-01490|19470101|20221030|394|47.6454|9.4795|Friedrichshafen|Baden-Württemberg
+01490|19470101|20221030|394|47.6454|9.4795|Friedrichshafen|Baden-WÃ¼rttemberg
 
-01492|19580101|20031231|852|47.7819|7.7348|Malsburg-Marzell-Friedrichsheim|Baden-Württemberg
+01492|19580101|20031231|852|47.7819|7.7348|Malsburg-Marzell-Friedrichsheim|Baden-WÃ¼rttemberg
 
-01493|19920701|19951231|793|50.4788|11.0159|Friedrichshöhe|Thüringen
+01493|19920701|19951231|793|50.4788|11.0159|FriedrichshÃ¶he|ThÃ¼ringen
 
 01503|19470201|20221030|6|53.0643|7.9020|Friesoythe-Altenoythe|Niedersachsen
 
@@ -494,7 +494,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01505|19750101|20071031|222|51.1333|9.2833|Fritzlar-Kasseler_Warte|Hessen
 
-01515|19690101|20030731|519|48.2000|11.2667|Fürstenfeldbruck|Bayern
+01515|19690101|20030731|519|48.2000|11.2667|FÃ¼rstenfeldbruck|Bayern
 
 01526|18850101|20221030|242|50.5668|9.6532|Fulda-Horas|Hessen
 
@@ -508,17 +508,17 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01580|18840701|20221030|111|49.9859|7.9548|Geisenheim|Hessen
 
-01584|20090601|20221030|673|47.9242|8.6474|Geisingen|Baden-Württemberg
+01584|20090601|20221030|673|47.9242|8.6474|Geisingen|Baden-WÃ¼rttemberg
 
 01587|19980101|20221030|536|48.9481|11.4289|Gelbelsee|Bayern
 
 01590|19631001|20221030|37|51.4942|6.2463|Geldern-Walbeck|Nordrhein-Westfalen
 
-01602|19700101|20221030|177|48.4330|7.9930|Ohlsbach|Baden-Württemberg
+01602|19700101|20221030|177|48.4330|7.9930|Ohlsbach|Baden-WÃ¼rttemberg
 
 01605|19530101|20221030|35|52.3875|12.1602|Genthin|Sachsen-Anhalt
 
-01612|19520101|20221030|311|50.8812|12.1289|Gera-Leumnitz|Thüringen
+01612|19520101|20221030|311|50.8812|12.1289|Gera-Leumnitz|ThÃ¼ringen
 
 01617|19520101|20071231|210|51.7259|11.1317|Gernrode|Sachsen-Anhalt
 
@@ -526,23 +526,23 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01623|19960301|20021130|530|50.4477|9.9174|Gersfeld|Hessen
 
-01639|19390101|20221030|203|50.6017|8.6439|Gießen/Wettenberg|Hessen
+01639|19390101|20221030|203|50.6017|8.6439|GieÃŸen/Wettenberg|Hessen
 
 01645|19490101|20221030|340|50.9656|9.0500|Gilserberg-Moischeid|Hessen
 
-01666|19710101|20221030|12|54.8273|9.5058|Glücksburg-Meierwik|Schleswig-Holstein
+01666|19710101|20221030|12|54.8273|9.5058|GlÃ¼cksburg-Meierwik|Schleswig-Holstein
 
-01667|19480101|20061231|1|53.7970|9.4295|Glückstadt|Schleswig-Holstein
+01667|19480101|20061231|1|53.7970|9.4295|GlÃ¼ckstadt|Schleswig-Holstein
 
-01684|18600101|20221030|239|51.1621|14.9506|Görlitz|Sachsen
+01684|18600101|20221030|239|51.1621|14.9506|GÃ¶rlitz|Sachsen
 
-01689|19360101|20040630|441|49.7656|11.3062|Gößweinstein|Bayern
+01689|19360101|20040630|441|49.7656|11.3062|GÃ¶ÃŸweinstein|Bayern
 
-01691|19270101|20221030|167|51.5002|9.9507|Göttingen|Niedersachsen
+01691|19270101|20221030|167|51.5002|9.9507|GÃ¶ttingen|Niedersachsen
 
 01694|19470101|20221028|59|53.6058|12.1034|Goldberg|Mecklenburg-Vorpommern
 
-01721|19910101|20221030|506|49.6640|11.2239|Gräfenberg-Kasberg|Bayern
+01721|19910101|20221030|506|49.6640|11.2239|GrÃ¤fenberg-Kasberg|Bayern
 
 01735|19951201|20221030|628|48.7894|13.6290|Grainet-Rehberg|Bayern
 
@@ -554,47 +554,47 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 01759|19470801|20221030|12|54.2437|13.9102|Greifswalder_Oie|Mecklenburg-Vorpommern
 
-01762|18970101|20061231|270|50.6249|12.1777|Greiz-Dölau|Thüringen
+01762|18970101|20061231|270|50.6249|12.1777|Greiz-DÃ¶lau|ThÃ¼ringen
 
-01766|19820101|20221030|48|52.1344|7.6969|Münster/Osnabrück|Nordrhein-Westfalen
+01766|19820101|20221030|48|52.1344|7.6969|MÃ¼nster/OsnabrÃ¼ck|Nordrhein-Westfalen
 
-01792|20200813|20221030|27|52.7553|7.4815|Groß_Berßen|Niedersachsen
+01792|20200813|20221030|27|52.7553|7.4815|GroÃŸ_BerÃŸen|Niedersachsen
 
-01803|19670101|20221030|34|54.0714|12.3238|Groß_Lüsewitz|Mecklenburg-Vorpommern
+01803|19670101|20221030|34|54.0714|12.3238|GroÃŸ_LÃ¼sewitz|Mecklenburg-Vorpommern
 
-01831|19830901|20040827|1449|49.1129|13.1365|Großer_Arber_(Ost)|Bayern
+01831|19830901|20040827|1449|49.1129|13.1365|GroÃŸer_Arber_(Ost)|Bayern
 
-01832|19821101|20221030|1436|49.1129|13.1338|Großer_Arber|Bayern
+01832|19821101|20221030|1436|49.1129|13.1338|GroÃŸer_Arber|Bayern
 
-01863|19950301|20221030|258|50.2667|9.1854|Gründau-Breitenborn|Hessen
+01863|19950301|20221030|258|50.2667|9.1854|GrÃ¼ndau-Breitenborn|Hessen
 
-01869|19730101|20221030|56|53.3154|13.9339|Grünow|Brandenburg
+01869|19730101|20221030|56|53.3154|13.9339|GrÃ¼now|Brandenburg
 
 01873|19570501|19981231|300|51.7956|10.2380|Grund,_Bad|Niedersachsen
 
 01874|19800401|19921124|320|51.8000|10.2167|Grund,_Bad_(Erzbergwerk)|Niedersachsen
 
-01875|19510101|20021231|492|48.9354|9.7364|Gschwend,_Kr._Ostalb|Baden-Württemberg
+01875|19510101|20021231|492|48.9354|9.7364|Gschwend,_Kr._Ostalb|Baden-WÃ¼rttemberg
 
-01886|20091126|20221030|444|48.4878|10.2608|Günzburg|Bayern
+01886|20091126|20221030|444|48.4878|10.2608|GÃ¼nzburg|Bayern
 
-01891|18880101|20020331|73|51.8770|8.3577|Rheda-Wiedenbrück-Lintel|Nordrhein-Westfalen
+01891|18880101|20020331|73|51.8770|8.3577|Rheda-WiedenbrÃ¼ck-Lintel|Nordrhein-Westfalen
 
-01892|19750601|20131027|72|51.9298|8.3005|Gütersloh_(Flugplatz)|Nordrhein-Westfalen
+01892|19750601|20131027|72|51.9298|8.3005|GÃ¼tersloh_(Flugplatz)|Nordrhein-Westfalen
 
-01902|19841101|20001231|413|49.1273|10.7448|Gunzenhausen_(Altmühlsee)|Bayern
+01902|19841101|20001231|413|49.1273|10.7448|Gunzenhausen_(AltmÃ¼hlsee)|Bayern
 
 01920|19780601|20071231|100|51.4129|7.4895|Hagen-Fley|Nordrhein-Westfalen
 
 01929|19470101|20010731|567|51.8597|10.3368|Hahnenklee|Niedersachsen
 
-01957|19510101|20150323|93|51.5138|11.9499|Halle-Kröllwitz|Sachsen-Anhalt
+01957|19510101|20150323|93|51.5138|11.9499|Halle-KrÃ¶llwitz|Sachsen-Anhalt
 
 01963|19690101|20221030|4|54.5742|8.5133|Hallig_Hooge|Schleswig-Holstein
 
 01964|19520101|20221030|328|49.9445|6.3821|Olsdorf|Rheinland-Pfalz
 
-01975|19360101|20221030|11|53.6332|9.9881|Hamburg-Fuhlsbüttel|Hamburg
+01975|19360101|20221030|11|53.6332|9.9881|Hamburg-FuhlsbÃ¼ttel|Hamburg
 
 01979|19510101|20061231|2|53.4213|10.1462|Hamburg-Kirchwerder|Hamburg
 
@@ -608,7 +608,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02000|19950601|19960930|106|50.1205|8.9243|Hanau|Hessen
 
-02005|19610101|19941231|108|52.7199|10.5987|Hankensbüttel|Niedersachsen
+02005|19610101|19941231|108|52.7199|10.5987|HankensbÃ¼ttel|Niedersachsen
 
 02014|19360101|20221030|55|52.4644|9.6779|Hannover|Niedersachsen
 
@@ -618,19 +618,19 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02044|19450501|20221030|404|51.6520|11.1366|Harzgerode|Sachsen-Anhalt
 
-02055|19871113|20141228|292|50.0493|10.4947|Haßfurt|Bayern
+02055|19871113|20141228|292|50.0493|10.4947|HaÃŸfurt|Bayern
 
-02074|19470101|20221030|518|48.3752|8.9800|Hechingen|Baden-Württemberg
+02074|19470101|20221030|518|48.3752|8.9800|Hechingen|Baden-WÃ¼rttemberg
 
 02078|19370101|20020630|10|54.2181|9.0853|Weddingstedt|Schleswig-Holstein
 
-02080|19350101|20120912|110|49.4206|8.6676|Heidelberg|Baden-Württemberg
+02080|19350101|20120912|110|49.4206|8.6676|Heidelberg|Baden-WÃ¼rttemberg
 
-02088|19470101|20050430|522|48.6849|10.1420|Heidenheim/Brenz|Baden-Württemberg
+02088|19470101|20050430|522|48.6849|10.1420|Heidenheim/Brenz|Baden-WÃ¼rttemberg
 
-02095|19470701|20031031|167|49.1448|9.2333|Heilbronn|Baden-Württemberg
+02095|19470701|20031031|167|49.1448|9.2333|Heilbronn|Baden-WÃ¼rttemberg
 
-02100|20181201|20191117|4|54.1860|7.9119|Helgoland-Düne|Schleswig-Holstein
+02100|20181201|20191117|4|54.1860|7.9119|Helgoland-DÃ¼ne|Schleswig-Holstein
 
 02110|19630101|20221030|57|51.0411|6.1042|Heinsberg-Schleiden|Nordrhein-Westfalen
 
@@ -644,13 +644,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02151|19470101|19910831|215|51.0048|10.1705|Herleshausen|Hessen
 
-02158|19510101|20090101|350|48.8042|8.4430|Herrenalb,_Bad|Baden-Württemberg
+02158|19510101|20090101|350|48.8042|8.4430|Herrenalb,_Bad|Baden-WÃ¼rttemberg
 
-02160|19810101|20001231|360|50.8444|10.6904|Herrenhof|Thüringen
+02160|19810101|20001231|360|50.8444|10.6904|Herrenhof|ThÃ¼ringen
 
 02166|19510101|19910502|344|51.0167|14.7500|Herrnhut|Sachsen
 
-02167|19480101|20120331|302|49.7672|7.3356|Niederwörresbach|Rheinland-Pfalz
+02167|19480101|20120331|302|49.7672|7.3356|NiederwÃ¶rresbach|Rheinland-Pfalz
 
 02171|19490101|20221030|272|50.8520|9.7377|Hersfeld,_Bad|Hessen
 
@@ -666,19 +666,19 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02221|19800101|19991031|1053|47.5408|10.4371|Hindelang-Unterjoch|Bayern
 
-02223|19600101|20011231|300|50.3674|10.5687|Hindfeld|Thüringen
+02223|19600101|20011231|300|50.3674|10.5687|Hindfeld|ThÃ¼ringen
 
-02226|19600401|20020930|668|50.4707|10.9106|Eisfeld-Waffenrod-Hinterrod|Thüringen
+02226|19600401|20020930|668|50.4707|10.9106|Eisfeld-Waffenrod-Hinterrod|ThÃ¼ringen
 
-02228|19460101|20050331|883|47.8983|8.1055|Hinterzarten|Baden-Württemberg
+02228|19460101|20050331|883|47.8983|8.1055|Hinterzarten|Baden-WÃ¼rttemberg
 
-02244|19460101|20050901|1008|47.7327|8.1627|Höchenschwand|Baden-Württemberg
+02244|19460101|20050901|1008|47.7327|8.1627|HÃ¶chenschwand|Baden-WÃ¼rttemberg
 
-02250|19410101|20060731|403|49.1279|12.8645|Höllenstein_(Kraftwerk)|Bayern
+02250|19410101|20060731|403|49.1279|12.8645|HÃ¶llenstein_(Kraftwerk)|Bayern
 
-02252|19470101|20221030|271|50.8992|14.7456|Bertsdorf-Hörnitz|Sachsen
+02252|19470101|20221030|271|50.8992|14.7456|Bertsdorf-HÃ¶rnitz|Sachsen
 
-02253|19831001|19960731|10|54.7667|8.2833|Hörnum/Sylt|Schleswig-Holstein
+02253|19831001|19960731|10|54.7667|8.2833|HÃ¶rnum/Sylt|Schleswig-Holstein
 
 02260|19490101|20061231|474|50.3230|11.9077|Hof_(Stadt)|Bayern
 
@@ -688,11 +688,11 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02268|19490101|20061231|265|50.1351|10.5156|Hofheim|Bayern
 
-02290|17810101|20221030|977|47.8009|11.0108|Hohenpeißenberg|Bayern
+02290|17810101|20221030|977|47.8009|11.0108|HohenpeiÃŸenberg|Bayern
 
 02297|19720601|19951130|80|54.1195|9.7127|Hohenwestedt|Schleswig-Holstein
 
-02302|19910101|19921231|317|50.9632|11.4847|Hohlstedt-Kötschau|Thüringen
+02302|19910101|19921231|317|50.9632|11.4847|Hohlstedt-KÃ¶tschau|ThÃ¼ringen
 
 02303|19690101|20221030|10|54.3162|9.5385|Hohn|Schleswig-Holstein
 
@@ -714,43 +714,43 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02338|19740601|20051223|39|52.3333|7.5500|Hopsten_(Flugplatz)|Nordrhein-Westfalen
 
-02349|19530101|20221030|1138|48.6136|8.2033|Hornisgrinde|Baden-Württemberg
+02349|19530101|20221030|1138|48.6136|8.2033|Hornisgrinde|Baden-WÃ¼rttemberg
 
-02362|19821001|20221030|328|50.5651|7.4843|Hümmerich|Rheinland-Pfalz
+02362|19821001|20221030|328|50.5651|7.4843|HÃ¼mmerich|Rheinland-Pfalz
 
-02377|19810101|20221030|362|47.7001|7.5895|Kandern-Gupf|Baden-Württemberg
+02377|19810101|20221030|362|47.7001|7.5895|Kandern-Gupf|Baden-WÃ¼rttemberg
 
 02385|19740401|20221030|376|49.6927|7.3263|Idar-Oberstein|Rheinland-Pfalz
 
-02388|19900601|20031231|193|48.0419|7.6322|Ihringen|Baden-Württemberg
+02388|19900601|20031231|193|48.0419|7.6322|Ihringen|Baden-WÃ¼rttemberg
 
-02406|19800701|20021130|209|49.2967|9.6520|Ingelfingen|Baden-Württemberg
+02406|19800701|20021130|209|49.2967|9.6520|Ingelfingen|Baden-WÃ¼rttemberg
 
 02410|19740101|20221030|364|48.7111|11.5363|Ingolstadt_(Flugplatz)|Bayern
 
-02423|19470101|20050701|712|47.6894|10.0416|Isny|Baden-Württemberg
+02423|19470101|20050701|712|47.6894|10.0416|Isny|Baden-WÃ¼rttemberg
 
 02429|19880301|20221030|21|53.9897|9.5696|Itzehoe|Schleswig-Holstein
 
-02436|19950101|20061231|55|52.0547|13.2344|Jänickendorf|Brandenburg
+02436|19950101|20061231|55|52.0547|13.2344|JÃ¤nickendorf|Brandenburg
 
 02437|19710101|20221030|21|54.4570|9.5203|Schleswig-Jagel|Schleswig-Holstein
 
-02444|18210101|20221030|155|50.9251|11.5830|Jena_(Sternwarte)|Thüringen
+02444|18210101|20221030|155|50.9251|11.5830|Jena_(Sternwarte)|ThÃ¼ringen
 
 02451|19910101|20010831|77|51.7954|12.9583|Jessen/Elster|Sachsen-Anhalt
 
 02456|19310101|20050826|7|53.5322|7.8806|Jever|Niedersachsen
 
-02474|19760101|20081231|91|50.9104|6.4093|Jülich_(Forsch.-Anlage)|Nordrhein-Westfalen
+02474|19760101|20081231|91|50.9104|6.4093|JÃ¼lich_(Forsch.-Anlage)|Nordrhein-Westfalen
 
-02477|19700401|20081231|728|47.5938|7.9597|Jungholz_(Kühmoos)|Baden-Württemberg
+02477|19700401|20081231|728|47.5938|7.9597|Jungholz_(KÃ¼hmoos)|Baden-WÃ¼rttemberg
 
 02480|19470101|20221030|108|50.0643|8.9930|Kahl/Main|Bayern
 
 02483|19261101|20221030|839|51.1803|8.4891|Kahler_Asten|Nordrhein-Westfalen
 
-02485|20110501|20221030|489|48.9170|9.6871|Kaisersbach-Cronhütte|Baden-Württemberg
+02485|20110501|20221030|489|48.9170|9.6871|Kaisersbach-CronhÃ¼tte|Baden-WÃ¼rttemberg
 
 02486|19010101|20221030|271|49.4262|7.7557|Kaiserslautern|Rheinland-Pfalz
 
@@ -762,29 +762,29 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02497|19470101|20221030|505|50.5014|6.5264|Kall-Sistig|Nordrhein-Westfalen
 
-02503|19510101|20030505|487|50.6266|10.1455|Kaltennordheim|Thüringen
+02503|19510101|20030505|487|50.6266|10.1455|Kaltennordheim|ThÃ¼ringen
 
 02521|19500101|19940331|374|48.6765|11.2961|Karlshuld|Bayern
 
-02522|18760101|20081031|112|49.0382|8.3641|Karlsruhe|Baden-Württemberg
+02522|18760101|20081031|112|49.0382|8.3641|Karlsruhe|Baden-WÃ¼rttemberg
 
 02532|18800101|20131031|231|51.2963|9.4424|Kassel|Hessen
 
-02536|19830901|19921231|283|51.3173|9.4145|Kassel-Wilhelmshöhe_(A)|Hessen
+02536|19830901|19921231|283|51.3173|9.4145|Kassel-WilhelmshÃ¶he_(A)|Hessen
 
 02542|19700501|20160331|716|47.8652|10.6007|Kaufbeuren|Bayern
 
 02543|19680101|20081231|585|48.0916|10.8609|Kaufering|Bayern
 
-02546|19881001|20031231|140|48.5576|7.8800|Kehl-Odelshofen|Baden-Württemberg
+02546|19881001|20031231|140|48.5576|7.8800|Kehl-Odelshofen|Baden-WÃ¼rttemberg
 
 02559|19520101|20221030|705|47.7233|10.3348|Kempten|Bayern
 
 02564|19740101|20221030|28|54.3776|10.1424|Kiel-Holtenau|Schleswig-Holstein
 
-02573|19870610|20221030|470|47.9588|12.7717|Waging_am_See-Schnöbling|Bayern
+02573|19870610|20221030|470|47.9588|12.7717|Waging_am_See-SchnÃ¶bling|Bayern
 
-02575|20070522|20221030|432|49.1804|9.9800|Kirchberg/Jagst-Herboldshausen|Baden-Württemberg
+02575|20070522|20221030|432|49.1804|9.9800|Kirchberg/Jagst-Herboldshausen|Baden-WÃ¼rttemberg
 
 02578|18650101|20221030|14|53.9995|11.4341|Kirchdorf/Poel|Mecklenburg-Vorpommern
 
@@ -794,39 +794,39 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02601|19360101|20221030|822|50.2218|8.4469|Kleiner_Feldberg/Taunus|Hessen
 
-02618|19580101|20221030|732|50.8458|10.4803|Kleiner_Inselsberg|Thüringen
+02618|19580101|20221030|732|50.8458|10.4803|Kleiner_Inselsberg|ThÃ¼ringen
 
 02627|19960701|20221030|128|51.5554|13.8845|Schipkau-Klettwitz|Brandenburg
 
 02629|19041001|20221030|46|51.7612|6.0954|Kleve|Nordrhein-Westfalen
 
-02638|19470101|20221030|974|48.1054|8.7548|Klippeneck|Baden-Württemberg
+02638|19470101|20221030|974|48.1054|8.7548|Klippeneck|Baden-WÃ¼rttemberg
 
 02641|19941001|20221030|90|51.5185|12.9065|Klitzschen_bei_Torgau|Sachsen
 
 02657|19510101|20080131|85|50.3369|7.5992|Koblenz-Horchheim|Rheinland-Pfalz
 
-02667|19570701|20221030|92|50.8646|7.1575|Köln-Bonn|Nordrhein-Westfalen
+02667|19570701|20221030|92|50.8646|7.1575|KÃ¶ln-Bonn|Nordrhein-Westfalen
 
-02677|19510101|20010831|730|48.1413|8.4285|Königsfeld/Schwarzwald|Baden-Württemberg
+02677|19510101|20010831|730|48.1413|8.4285|KÃ¶nigsfeld/Schwarzwald|Baden-WÃ¼rttemberg
 
-02680|19510101|20221030|289|50.2840|10.4456|Königshofen,_Bad|Bayern
+02680|19510101|20221030|289|50.2840|10.4456|KÃ¶nigshofen,_Bad|Bayern
 
-02691|19940401|20081231|378|48.6707|11.2173|Königsmoos-Untermaxfeld|Bayern
+02691|19940401|20081231|378|48.6707|11.2173|KÃ¶nigsmoos-Untermaxfeld|Bayern
 
-02693|19420101|20031231|380|50.1855|8.4698|Königstein/Taunus|Hessen
+02693|19420101|20031231|380|50.1855|8.4698|KÃ¶nigstein/Taunus|Hessen
 
-02700|19610101|20221030|416|48.8302|11.4872|Kösching|Bayern
+02700|19610101|20221030|416|48.8302|11.4872|KÃ¶sching|Bayern
 
-02701|19450701|20070331|136|51.1329|11.7252|Kösen,_Bad|Sachsen-Anhalt
+02701|19450701|20070331|136|51.1329|11.7252|KÃ¶sen,_Bad|Sachsen-Anhalt
 
-02703|19980101|20001010|496|51.8550|9.3239|Köterberg|Nordrhein-Westfalen
+02703|19980101|20001010|496|51.8550|9.3239|KÃ¶terberg|Nordrhein-Westfalen
 
-02704|19931001|20220831|76|51.7511|12.0094|Köthen_(Anhalt)|Sachsen-Anhalt
+02704|19931001|20220831|76|51.7511|12.0094|KÃ¶then_(Anhalt)|Sachsen-Anhalt
 
 02708|19910801|20221030|742|47.6652|11.0805|Kohlgrub,_Bad_(Rosshof)|Bayern
 
-02712|19590701|20221030|428|47.6952|9.1307|Konstanz|Baden-Württemberg
+02712|19590701|20221030|428|47.6952|9.1307|Konstanz|Baden-WÃ¼rttemberg
 
 02717|19890601|20051231|395|51.2662|8.8309|Korbach-Lengefeld|Hessen
 
@@ -834,7 +834,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02750|19490101|20221030|310|50.2524|11.3209|Kronach|Bayern
 
-02773|19740101|20221030|415|49.4283|11.9016|Kümmersbruck|Bayern
+02773|19740101|20221030|415|49.4283|11.9016|KÃ¼mmersbruck|Bayern
 
 02783|19660901|19920831|436|48.5126|12.1513|Kumhausen|Bayern
 
@@ -844,9 +844,9 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02798|19750101|19980531|32|51.6000|6.1500|Laarbruch|Nordrhein-Westfalen
 
-02812|19500101|20221030|156|48.3647|7.8280|Lahr|Baden-Württemberg
+02812|19500101|20221030|156|48.3647|7.8280|Lahr|Baden-WÃ¼rttemberg
 
-02814|19490101|20221030|687|48.5122|9.7644|Merklingen|Baden-Württemberg
+02814|19490101|20221030|687|48.5122|9.7644|Merklingen|Baden-WÃ¼rttemberg
 
 02829|19690101|20180710|621|48.0772|10.9144|Landsberg_(Flugplatz)|Bayern
 
@@ -856,13 +856,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02856|19930601|20221030|91|51.9173|13.0878|Langenlipsdorf|Brandenburg
 
-02878|19470401|20221030|117|51.3909|11.8786|Lauchstädt,_Bad|Sachsen-Anhalt
+02878|19470401|20221030|117|51.3909|11.8786|LauchstÃ¤dt,_Bad|Sachsen-Anhalt
 
-02886|19700101|20221030|539|48.2175|9.9097|Laupheim|Baden-Württemberg
+02886|19700101|20221030|539|48.2175|9.9097|Laupheim|Baden-WÃ¼rttemberg
 
 02889|19710101|19910930|300|51.6323|10.4737|Lauterberg,_Bad_(A)|Niedersachsen
 
-02897|19900830|20221030|522|50.5808|9.2857|Lautertal-Hörgenau|Hessen
+02897|19900830|20221030|522|50.5808|9.2857|Lautertal-HÃ¶rgenau|Hessen
 
 02905|19690101|20221030|550|48.1849|10.8507|Lechfeld|Bayern
 
@@ -870,7 +870,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02920|19780901|19970630|365|48.7654|12.5121|Leiblfing|Bayern
 
-02925|19570101|20221030|356|51.3932|10.3123|Leinefelde|Thüringen
+02925|19570101|20221030|356|51.3932|10.3123|Leinefelde|ThÃ¼ringen
 
 02928|18631201|20221030|138|51.3151|12.4462|Leipzig-Holzhausen|Sachsen
 
@@ -878,19 +878,19 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 02947|19620401|20221030|286|51.1333|8.0348|Lennestadt-Theten|Nordrhein-Westfalen
 
-02949|19470801|20020131|758|48.5396|9.5275|Lenningen-Schopfloch|Baden-Württemberg
+02949|19470801|20020131|758|48.5396|9.5275|Lenningen-Schopfloch|Baden-WÃ¼rttemberg
 
 02950|19620401|20061231|14|54.2190|10.8844|Lensahn|Schleswig-Holstein
 
 02951|19941001|20221030|20|53.1007|11.4864|Lenzen/Elbe|Brandenburg
 
-02953|19610101|20221030|854|47.8597|8.2308|Lenzkirch-Ruhbühl|Baden-Württemberg
+02953|19610101|20221030|854|47.8597|8.2308|Lenzkirch-RuhbÃ¼hl|Baden-WÃ¼rttemberg
 
-02954|19870401|20041228|990|47.8919|8.1788|Lenzkirch-Saig|Baden-Württemberg
+02954|19870401|20041228|990|47.8919|8.1788|Lenzkirch-Saig|Baden-WÃ¼rttemberg
 
 02961|19980101|20221030|31|54.4996|10.2737|Leuchtturm_Kiel|Schleswig-Holstein
 
-02968|19450101|20221030|43|50.9894|6.9777|Köln-Stammheim|Nordrhein-Westfalen
+02968|19450101|20221030|43|50.9894|6.9777|KÃ¶ln-Stammheim|Nordrhein-Westfalen
 
 02985|19910101|20221030|321|50.9383|14.2094|Lichtenhain-Mittelndorf|Sachsen
 
@@ -906,37 +906,37 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03028|19510101|20221030|157|51.7854|8.8388|Lippspringe,_Bad|Nordrhein-Westfalen
 
-03031|19801201|20221030|92|51.6336|8.3945|Lippstadt-Bökenförde|Nordrhein-Westfalen
+03031|19801201|20221030|92|51.6336|8.3945|Lippstadt-BÃ¶kenfÃ¶rde|Nordrhein-Westfalen
 
 03032|19370101|20221030|25|55.0110|8.4125|List_auf_Sylt|Schleswig-Holstein
 
-03034|19520301|20221030|496|50.4505|11.6350|Lobenstein,_Bad|Thüringen
+03034|19520301|20221030|496|50.4505|11.6350|Lobenstein,_Bad|ThÃ¼ringen
 
-03042|19930701|20221030|230|50.5617|8.2386|Löhnberg-Obershausen|Hessen
+03042|19930701|20221030|230|50.5617|8.2386|LÃ¶hnberg-Obershausen|Hessen
 
-03044|19460101|20180531|22|52.7198|7.7472|Löningen|Niedersachsen
+03044|19460101|20180531|22|52.7198|7.7472|LÃ¶ningen|Niedersachsen
 
-03045|19930501|20070630|27|52.7432|7.8763|Löningen-Hagel|Niedersachsen
+03045|19930501|20070630|27|52.7432|7.8763|LÃ¶ningen-Hagel|Niedersachsen
 
-03046|19800201|19910331|20|52.7333|7.7333|Löningen-Schnetlage|Niedersachsen
+03046|19800201|19910331|20|52.7333|7.7333|LÃ¶ningen-Schnetlage|Niedersachsen
 
 03056|19470101|20051031|161|50.0103|9.6100|Lohr/Main-Steinbach|Bayern
 
-03083|19911001|20221030|57|51.9267|13.8797|Lübben-Blumenfelde|Brandenburg
+03083|19911001|20221030|57|51.9267|13.8797|LÃ¼bben-Blumenfelde|Brandenburg
 
-03086|19850301|20221030|15|53.8025|10.6989|Lübeck-Blankensee|Schleswig-Holstein
+03086|19850301|20221030|15|53.8025|10.6989|LÃ¼beck-Blankensee|Schleswig-Holstein
 
-03093|19541201|20221030|16|52.9724|11.1374|Lüchow|Niedersachsen
+03093|19541201|20221030|16|52.9724|11.1374|LÃ¼chow|Niedersachsen
 
-03096|19400101|19951231|444|51.2131|7.6359|Lüdenscheid_(Zeppelin-Gymnasium)|Nordrhein-Westfalen
+03096|19400101|19951231|444|51.2131|7.6359|LÃ¼denscheid_(Zeppelin-Gymnasium)|Nordrhein-Westfalen
 
-03098|19931223|20221030|387|51.2452|7.6425|Lüdenscheid|Nordrhein-Westfalen
+03098|19931223|20221030|387|51.2452|7.6425|LÃ¼denscheid|Nordrhein-Westfalen
 
-03101|19500101|19950930|58|51.7694|7.4128|Lüdinghausen|Nordrhein-Westfalen
+03101|19500101|19950930|58|51.7694|7.4128|LÃ¼dinghausen|Nordrhein-Westfalen
 
-03103|19470501|19971231|11|53.2657|10.4240|Lüneburg|Niedersachsen
+03103|19470501|19971231|11|53.2657|10.4240|LÃ¼neburg|Niedersachsen
 
-03113|19910101|19910731|528|50.7663|10.7201|Luisenthal/Ohra|Thüringen
+03113|19910101|19910731|528|50.7663|10.7201|Luisenthal/Ohra|ThÃ¼ringen
 
 03126|18810101|20221030|79|52.1029|11.5827|Magdeburg|Sachsen-Anhalt
 
@@ -944,7 +944,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03139|19831101|20041231|509|48.2166|11.2965|Maisach-Gernlinden|Bayern
 
-03145|19981201|20080901|30|54.1800|10.5528|Malente,_Bad-Gremsmühlen|Schleswig-Holstein
+03145|19981201|20080901|30|54.1800|10.5528|Malente,_Bad-GremsmÃ¼hlen|Schleswig-Holstein
 
 03147|19530101|20221030|390|48.7548|12.2118|Mallersdorf-Pfaffenberg-Oberlindhart|Bayern
 
@@ -952,7 +952,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03158|19850101|20221030|12|52.5468|14.5453|Manschnow|Brandenburg
 
-03164|19460101|20221030|187|50.8492|8.7745|Cölbe,_Kr._Marburg-Biedenkopf|Hessen
+03164|19460101|20221030|187|50.8492|8.7745|CÃ¶lbe,_Kr._Marburg-Biedenkopf|Hessen
 
 03166|19550801|20221030|639|50.6511|13.1469|Marienberg|Sachsen
 
@@ -964,7 +964,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03196|19020101|20221030|81|53.3222|11.9321|Marnitz|Mecklenburg-Vorpommern
 
-03204|19831101|20221030|429|50.7335|10.8815|Martinroda|Thüringen
+03204|19831101|20221030|429|50.7335|10.8815|Martinroda|ThÃ¼ringen
 
 03212|19610101|20021231|230|50.3249|7.2300|Mayen|Rheinland-Pfalz
 
@@ -972,9 +972,9 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03228|19790801|19970331|506|51.0976|7.6670|Meinerzhagen_(A)|Nordrhein-Westfalen
 
-03231|19790101|20221030|450|50.5611|10.3771|Meiningen|Thüringen
+03231|19790101|20221030|450|50.5611|10.3771|Meiningen|ThÃ¼ringen
 
-03234|19560601|20221030|158|51.1294|13.4328|Garsebach_bei_Meißen|Sachsen
+03234|19560601|20221030|158|51.1294|13.4328|Garsebach_bei_MeiÃŸen|Sachsen
 
 03236|19860701|20011231|85|52.2147|8.3833|Melle|Niedersachsen
 
@@ -984,67 +984,67 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03246|19841101|20070614|181|50.3667|7.3167|Mendig|Rheinland-Pfalz
 
-03253|19610101|20061231|882|47.8309|8.0698|Sankt_Blasien-Menzenschwand|Baden-Württemberg
+03253|19610101|20061231|882|47.8309|8.0698|Sankt_Blasien-Menzenschwand|Baden-WÃ¼rttemberg
 
 03254|19730101|20221030|19|52.7155|7.3176|Meppen|Niedersachsen
 
-03257|19470101|20221004|251|49.4773|9.7622|Mergentheim,_Bad-Neunkirchen|Baden-Württemberg
+03257|19470101|20221004|251|49.4773|9.7622|Mergentheim,_Bad-Neunkirchen|Baden-WÃ¼rttemberg
 
-03268|20000601|20221030|900|48.1694|8.9433|Meßstetten-Appental|Baden-Württemberg
+03268|20000601|20221030|900|48.1694|8.9433|MeÃŸstetten-Appental|Baden-WÃ¼rttemberg
 
 03271|19410101|20221030|314|48.8548|12.9189|Metten|Bayern
 
 03274|19921001|20111231|415|49.5070|6.5215|Mettlach-Orscholz_(Kurort)|Saarland
 
-03278|20030101|20221030|354|48.5377|9.2734|Metzingen|Baden-Württemberg
+03278|20030101|20221030|354|48.5377|9.2734|Metzingen|Baden-WÃ¼rttemberg
 
 03284|19870101|20221030|240|49.6692|9.0085|Michelstadt|Hessen
 
 03287|19871001|20221030|453|49.7177|9.0997|Michelstadt-Vielbrunn|Hessen
 
-03289|19721001|20221030|356|50.7281|11.7838|Schmieritz-Weltwitz|Thüringen
+03289|19721001|20221030|356|50.7281|11.7838|Schmieritz-Weltwitz|ThÃ¼ringen
 
 03291|19801101|20031231|129|49.7120|9.2258|Miltenberg|Bayern
 
-03300|19740501|19930531|155|50.2285|9.1064|Mittel-Gründau|Hessen
+03300|19740501|19930531|155|50.2285|9.1064|Mittel-GrÃ¼ndau|Hessen
 
 03307|19370101|20221030|984|47.4779|11.2653|Mittenwald-Buckelwiesen|Bayern
 
-03319|20060901|20221030|239|49.7644|9.2530|Röllbach|Bayern
+03319|20060901|20221030|239|49.7644|9.2530|RÃ¶llbach|Bayern
 
-03321|20080425|20221030|77|51.1313|6.3609|Mönchengladbach-Hilderath|Nordrhein-Westfalen
+03321|20080425|20221030|77|51.1313|6.3609|MÃ¶nchengladbach-Hilderath|Nordrhein-Westfalen
 
 03340|19380101|20220430|265|50.4383|7.8061|Montabaur|Rheinland-Pfalz
 
 03348|19900701|20221030|241|51.7209|9.8351|Moringen-Lutterbeck|Niedersachsen
 
-03362|19980101|20221030|243|48.9721|8.8735|Mühlacker|Baden-Württemberg
+03362|19980101|20221030|243|48.9721|8.8735|MÃ¼hlacker|Baden-WÃ¼rttemberg
 
-03366|19530101|20221030|406|48.2790|12.5024|Mühldorf|Bayern
+03366|19530101|20221030|406|48.2790|12.5024|MÃ¼hldorf|Bayern
 
-03369|19800101|20060315|42|53.6000|10.4833|Mühlenrade|Schleswig-Holstein
+03369|19800101|20060315|42|53.6000|10.4833|MÃ¼hlenrade|Schleswig-Holstein
 
-03370|19950401|20041130|300|51.2076|10.3956|Mühlhausen|Thüringen
+03370|19950401|20041130|300|51.2076|10.3956|MÃ¼hlhausen|ThÃ¼ringen
 
-03376|19370101|20221030|63|52.5176|14.1232|Müncheberg|Brandenburg
+03376|19370101|20221030|63|52.5176|14.1232|MÃ¼ncheberg|Brandenburg
 
-03379|19540601|20221030|515|48.1632|11.5429|München-Stadt|Bayern
+03379|19540601|20221030|515|48.1632|11.5429|MÃ¼nchen-Stadt|Bayern
 
-03385|19550101|19990331|515|48.1660|11.5011|München-Nymphenburg|Bayern
+03385|19550101|19990331|515|48.1660|11.5011|MÃ¼nchen-Nymphenburg|Bayern
 
-03388|19940201|19970131|542|48.0919|11.6486|München-Perlach|Bayern
+03388|19940201|19970131|542|48.0919|11.6486|MÃ¼nchen-Perlach|Bayern
 
-03390|19400101|19920517|529|48.1369|11.7094|München-Riem|Bayern
+03390|19400101|19920517|529|48.1369|11.7094|MÃ¼nchen-Riem|Bayern
 
-03402|19460101|20221030|755|48.3851|9.4837|Münsingen-Apfelstetten|Baden-Württemberg
+03402|19460101|20221030|755|48.3851|9.4837|MÃ¼nsingen-Apfelstetten|Baden-WÃ¼rttemberg
 
-03404|18910101|19911231|62|51.9494|7.5906|Münster|Nordrhein-Westfalen
+03404|18910101|19911231|62|51.9494|7.5906|MÃ¼nster|Nordrhein-Westfalen
 
-03425|19510101|20040531|344|48.9729|9.5712|Murrhardt|Baden-Württemberg
+03425|19510101|20040531|344|48.9729|9.5712|Murrhardt|Baden-WÃ¼rttemberg
 
 03426|19360518|20221030|127|51.5660|14.7008|Muskau,_Bad|Sachsen
 
-03432|19490101|19950331|380|48.5675|8.7179|Nagold|Baden-Württemberg
+03432|19490101|19950331|380|48.5675|8.7179|Nagold|Baden-WÃ¼rttemberg
 
 03442|19470101|20221030|149|50.3574|8.7506|Nauheim,_Bad|Hessen
 
@@ -1054,23 +1054,23 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03485|19910601|20221030|486|48.3115|10.3773|Neuburg/Kammel-Langenhaslach|Bayern
 
-03486|19490101|20041231|212|49.2931|9.2722|Neudenau|Baden-Württemberg
+03486|19490101|20041231|212|49.2931|9.2722|Neudenau|Baden-WÃ¼rttemberg
 
 03490|19480101|20221030|111|50.5346|7.0853|Neuenahr,_Bad-Ahrweiler|Rheinland-Pfalz
 
 03509|20041001|20221030|78|53.1020|13.0421|Menz|Brandenburg
 
-03513|19550101|20221030|845|50.5003|11.1345|Neuhaus_am_Rennweg|Thüringen
+03513|19550101|20221030|845|50.5003|11.1345|Neuhaus_am_Rennweg|ThÃ¼ringen
 
-03518|19710101|19931231|793|47.9760|8.9101|Neuhausen_ob_Eck|Baden-Württemberg
+03518|19710101|19931231|793|47.9760|8.9101|Neuhausen_ob_Eck|Baden-WÃ¼rttemberg
 
-03519|19931201|20031231|663|47.9519|8.9932|Neuhausen_ob_Eck-Unterschwandorf|Baden-Württemberg
+03519|19931201|20031231|663|47.9519|8.9932|Neuhausen_ob_Eck-Unterschwandorf|Baden-WÃ¼rttemberg
 
 03527|19470101|20221030|500|50.8923|9.4050|Neukirchen-Hauptschwenda|Hessen
 
-03534|19810301|20221030|584|49.2713|11.4881|Neumarkt-Höhenberg|Bayern
+03534|19810301|20221030|584|49.2713|11.4881|Neumarkt-HÃ¶henberg|Bayern
 
-03537|18880101|20070831|26|54.0873|9.9791|Neumünster|Schleswig-Holstein
+03537|18880101|20070831|26|54.0873|9.9791|NeumÃ¼nster|Schleswig-Holstein
 
 03540|19920901|20221030|195|50.8446|7.3720|Neunkirchen-Seelscheid-Krawinkel|Nordrhein-Westfalen
 
@@ -1086,7 +1086,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03571|20080301|20221030|452|49.8174|11.8638|Neustadt_am_Kulm-Filchendorf|Bayern
 
-03576|19760101|20021031|125|49.3478|8.1822|Neustadt/Weinstraße_(Heidehof)|Rheinland-Pfalz
+03576|19760101|20021031|125|49.3478|8.1822|Neustadt/WeinstraÃŸe_(Heidehof)|Rheinland-Pfalz
 
 03578|19811001|20061231|341|48.9831|12.1444|Regensburg-Burgweinting|Bayern
 
@@ -1096,13 +1096,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03595|19660501|20030630|250|50.4107|7.8080|Niederelbert|Rheinland-Pfalz
 
-03603|20000701|20221030|459|49.3895|9.9666|Niederstetten|Baden-Württemberg
+03603|20000701|20221030|459|49.3895|9.9666|Niederstetten|Baden-WÃ¼rttemberg
 
 03612|19470101|20221030|25|52.6711|9.2229|Nienburg|Niedersachsen
 
 03621|19470101|20221030|435|48.8253|10.5067|Reimlingen|Bayern
 
-03623|19690101|20221030|110|50.8294|6.6601|Nörvenich_(Flugplatz)|Nordrhein-Westfalen
+03623|19690101|20221030|110|50.8294|6.6601|NÃ¶rvenich_(Flugplatz)|Nordrhein-Westfalen
 
 03631|18580301|20221030|12|53.7123|7.1519|Norderney|Niedersachsen
 
@@ -1110,59 +1110,59 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03640|19360101|20061231|24|52.4124|7.0640|Nordhorn-Blanke|Niedersachsen
 
-03651|19920402|20221030|109|51.7521|9.9450|Northeim-Stöckheim|Niedersachsen
+03651|19920402|20221030|109|51.7521|9.9450|Northeim-StÃ¶ckheim|Niedersachsen
 
-03657|19830601|20150831|341|50.9081|7.5543|Nümbrecht_auf_dem_Lindchen|Nordrhein-Westfalen
+03657|19830601|20150831|341|50.9081|7.5543|NÃ¼mbrecht_auf_dem_Lindchen|Nordrhein-Westfalen
 
-03658|19800701|20050131|303|50.9095|7.5725|Nümbrecht-Distelkamp|Nordrhein-Westfalen
+03658|19800701|20050131|303|50.9095|7.5725|NÃ¼mbrecht-Distelkamp|Nordrhein-Westfalen
 
-03659|19470101|19950327|627|50.3391|6.9501|Nürburg|Rheinland-Pfalz
+03659|19470101|19950327|627|50.3391|6.9501|NÃ¼rburg|Rheinland-Pfalz
 
-03660|19950224|20221030|485|50.3602|6.8697|Nürburg-Barweiler|Rheinland-Pfalz
+03660|19950224|20221030|485|50.3602|6.8697|NÃ¼rburg-Barweiler|Rheinland-Pfalz
 
-03667|19750101|20221030|369|49.4258|11.2539|Nürnberg-Netzstall|Bayern
+03667|19750101|20221030|369|49.4258|11.2539|NÃ¼rnberg-Netzstall|Bayern
 
-03668|18790101|20221030|314|49.5030|11.0549|Nürnberg|Bayern
+03668|18790101|20221030|314|49.5030|11.0549|NÃ¼rnberg|Bayern
 
-03671|19550101|19910331|280|48.6321|9.3261|Nürtingen|Baden-Württemberg
+03671|19550101|19910331|280|48.6321|9.3261|NÃ¼rtingen|Baden-WÃ¼rttemberg
 
 03679|19470101|20221030|518|47.6187|12.1665|Kiefersfelden-Gach|Bayern
 
-03702|19720101|20061231|515|47.8780|7.8288|Münstertal-Obermünstertal|Baden-Württemberg
+03702|19720101|20061231|515|47.8780|7.8288|MÃ¼nstertal-ObermÃ¼nstertal|Baden-WÃ¼rttemberg
 
-03705|19820701|20041231|475|48.3147|8.5735|Oberndorf/Neckar-Aistaig|Baden-Württemberg
+03705|19820701|20041231|475|48.3147|8.5735|Oberndorf/Neckar-Aistaig|Baden-WÃ¼rttemberg
 
-03722|19760401|20111119|484|48.2443|11.5528|Oberschleißheim|Bayern
+03722|19760401|20111119|484|48.2443|11.5528|OberschleiÃŸheim|Bayern
 
 03727|19831001|20010930|800|47.5619|10.0313|Oberstaufen-Kalzhofen|Bayern
 
 03730|19100101|20221030|806|47.3984|10.2759|Oberstdorf|Bayern
 
-03734|20040701|20221030|230|49.1280|9.3525|Obersulm-Willsbach|Baden-Württemberg
+03734|20040701|20221030|230|49.1280|9.3525|Obersulm-Willsbach|Baden-WÃ¼rttemberg
 
 03739|19481001|20221030|596|49.4521|12.4365|Oberviechtach|Bayern
 
-03751|19880601|19971231|626|48.0449|9.8822|Ochsenhausen-Mittelbuch|Baden-Württemberg
+03751|19880601|19971231|626|48.0449|9.8822|Ochsenhausen-Mittelbuch|Baden-WÃ¼rttemberg
 
 03753|19640101|19930331|56|52.2042|7.1784|Ochtrup|Nordrhein-Westfalen
 
-03761|19470101|20221030|276|49.2070|9.5176|Öhringen|Baden-Württemberg
+03761|19470101|20221030|276|49.2070|9.5176|Ã–hringen|Baden-WÃ¼rttemberg
 
 03775|19780101|19981216|100|50.1029|8.7468|Offenbach/Main_(Zentrallabor)|Hessen
 
 03776|19571101|19951031|110|50.0946|8.7546|Offenbach/M._(Stadt)|Hessen
 
-03777|19580101|20031231|153|48.4593|7.9255|Offenburg|Baden-Württemberg
+03777|19580101|20031231|153|48.4593|7.9255|Offenburg|Baden-WÃ¼rttemberg
 
 03791|19690101|20121001|11|53.1763|8.1824|Oldenburg|Niedersachsen
 
 03811|19411001|20221030|150|51.2960|13.0928|Oschatz|Sachsen
 
-03815|19520201|20101130|95|52.2553|8.0534|Osnabrück|Niedersachsen
+03815|19520201|20101130|95|52.2553|8.0534|OsnabrÃ¼ck|Niedersachsen
 
 03821|19840801|20221030|246|51.0873|11.9293|Osterfeld|Sachsen-Anhalt
 
-03836|19720501|20221030|314|50.4538|10.2211|Ostheim_v.d._Rhön|Bayern
+03836|19720501|20221030|314|50.4538|10.2211|Ostheim_v.d._RhÃ¶n|Bayern
 
 03856|19490101|19930630|1010|47.6383|10.4313|Oy-Mittelberg|Bayern
 
@@ -1186,19 +1186,19 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03922|19751101|20010630|435|49.1162|10.8598|Pfofeld-Langlau|Bayern
 
-03924|19370101|20050831|246|48.9059|8.7412|Pforzheim-Eutingen|Baden-Württemberg
+03924|19370101|20050831|246|48.9059|8.7412|Pforzheim-Eutingen|Baden-WÃ¼rttemberg
 
-03925|19890406|20221030|332|48.9329|8.6973|Pforzheim-Ispringen|Baden-Württemberg
+03925|19890406|20221030|332|48.9329|8.6973|Pforzheim-Ispringen|Baden-WÃ¼rttemberg
 
-03927|19580101|20221030|630|47.9345|9.2869|Pfullendorf|Baden-Württemberg
+03927|19580101|20221030|630|47.9345|9.2869|Pfullendorf|Baden-WÃ¼rttemberg
 
 03939|19500101|20221030|385|49.1912|7.5879|Pirmasens|Rheinland-Pfalz
 
 03946|18820101|20221030|387|50.4818|12.1300|Plauen|Sachsen
 
-03954|19700701|19960930|26|54.1603|10.4345|Plön_(Max-Planck-Institut)|Schleswig-Holstein
+03954|19700701|19960930|26|54.1603|10.4345|PlÃ¶n_(Max-Planck-Institut)|Schleswig-Holstein
 
-03955|19500101|19970131|24|54.1590|10.4020|Plön_(See)|Schleswig-Holstein
+03955|19500101|19970131|24|54.1590|10.4020|PlÃ¶n_(See)|Schleswig-Holstein
 
 03974|19490301|19930630|368|49.5058|11.5142|Pommelsbrunn|Bayern
 
@@ -1206,27 +1206,27 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 03987|18930101|20221030|82|52.3812|13.0622|Potsdam|Brandenburg
 
-03988|18930101|20191231|81|52.3822|13.0622|Potsdam_(Säkularstation)|Brandenburg
+03988|18930101|20191231|81|52.3822|13.0622|Potsdam_(SÃ¤kularstation)|Brandenburg
 
 04024|18530701|20221030|40|54.3643|13.4771|Putbus|Mecklenburg-Vorpommern
 
 04032|19450101|20221030|142|51.7953|11.1320|Quedlinburg|Sachsen-Anhalt
 
-04036|19530601|20221030|204|51.3895|11.5412|Querfurt-Mühle_Lodersleben|Sachsen-Anhalt
+04036|19530601|20221030|204|51.3895|11.5412|Querfurt-MÃ¼hle_Lodersleben|Sachsen-Anhalt
 
 04039|19741201|20221030|11|53.7331|9.8776|Quickborn|Schleswig-Holstein
 
-04053|19530101|19961231|407|47.7458|9.0007|Radolfzell-Markelfingen|Baden-Württemberg
+04053|19530101|19961231|407|47.7458|9.0007|Radolfzell-Markelfingen|Baden-WÃ¼rttemberg
 
 04063|19510101|20221030|41|52.4461|8.5906|Rahden-Kleinendorf|Nordrhein-Westfalen
 
 04066|19861101|19990131|553|47.9091|11.1048|Raisting|Bayern
 
-04079|19470101|20050630|200|51.1765|11.4183|Rastenberg|Thüringen
+04079|19470101|20050630|200|51.1765|11.4183|Rastenberg|ThÃ¼ringen
 
 04091|19620701|19980630|1640|47.7327|12.6827|Rauschberg_bei_Ruhpolding|Bayern
 
-04094|19460101|20221030|441|47.8062|9.6206|Weingarten,_Kr._Ravensburg|Baden-Württemberg
+04094|19460101|20221030|441|47.8062|9.6206|Weingarten,_Kr._Ravensburg|Baden-WÃ¼rttemberg
 
 04104|18790101|20221030|365|49.0425|12.1019|Regensburg|Bayern
 
@@ -1240,19 +1240,19 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04157|19850601|20031130|315|50.5052|7.4881|Rengsdorf_(Kurort)|Rheinland-Pfalz
 
-04160|19701222|20221030|478|48.7425|8.9240|Renningen-Ihinger_Hof|Baden-Württemberg
+04160|19701222|20221030|478|48.7425|8.9240|Renningen-Ihinger_Hof|Baden-WÃ¼rttemberg
 
-04166|19880501|20021231|360|48.5051|9.1833|Reutlingen-Betzingen|Baden-Württemberg
+04166|19880501|20021231|360|48.5051|9.1833|Reutlingen-Betzingen|Baden-WÃ¼rttemberg
 
-04169|19580101|20221030|131|48.6703|7.9939|Rheinau-Memprechtshofen|Baden-Württemberg
+04169|19580101|20221030|131|48.6703|7.9939|Rheinau-Memprechtshofen|Baden-WÃ¼rttemberg
 
 04174|19710101|20171220|40|52.2887|7.3866|Rheine-Bentlage|Nordrhein-Westfalen
 
-04175|19530901|20221030|283|47.5590|7.7721|Rheinfelden|Baden-Württemberg
+04175|19530901|20221030|283|47.5590|7.7721|Rheinfelden|Baden-WÃ¼rttemberg
 
-04177|19480101|20221030|116|48.9726|8.3301|Rheinstetten|Baden-Württemberg
+04177|19480101|20221030|116|48.9726|8.3301|Rheinstetten|Baden-WÃ¼rttemberg
 
-04189|20040801|20221030|534|48.1479|9.4596|Altheim,_Kreis_Biberach|Baden-Württemberg
+04189|20040801|20221030|534|48.1479|9.4596|Altheim,_Kreis_Biberach|Baden-WÃ¼rttemberg
 
 04222|19630101|20060131|464|50.5263|12.4091|Rodewisch|Sachsen
 
@@ -1262,13 +1262,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04261|19500101|20221030|442|47.8753|12.1280|Rosenheim|Bayern
 
-04271|19470101|20221030|5|54.1803|12.0808|Rostock-Warnemünde|Mecklenburg-Vorpommern
+04271|19470101|20221030|5|54.1803|12.0808|Rostock-WarnemÃ¼nde|Mecklenburg-Vorpommern
 
-04275|19460101|20221030|32|53.1288|9.3398|Rotenburg_(Wümme)|Niedersachsen
+04275|19460101|20221030|32|53.1288|9.3398|Rotenburg_(WÃ¼mme)|Niedersachsen
 
-04278|19510101|20081231|340|49.2511|11.0934|Roth_bei_Nürnberg|Bayern
+04278|19510101|20081231|340|49.2511|11.0934|Roth_bei_NÃ¼rnberg|Bayern
 
-04279|19890418|20221030|593|50.3046|6.3862|Roth_bei_Prüm|Rheinland-Pfalz
+04279|19890418|20221030|593|50.3046|6.3862|Roth_bei_PrÃ¼m|Rheinland-Pfalz
 
 04280|19710101|20221030|386|49.2162|11.1035|Roth|Bayern
 
@@ -1276,9 +1276,9 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04293|19580101|20051130|747|47.6819|11.7714|Rottach-Egern|Bayern
 
-04294|19790701|20021031|360|48.4704|8.9687|Rottenburg-Kiebingen|Baden-Württemberg
+04294|19790701|20021031|360|48.4704|8.9687|Rottenburg-Kiebingen|Baden-WÃ¼rttemberg
 
-04300|19570201|20221030|589|48.1815|8.6356|Rottweil|Baden-Württemberg
+04300|19570201|20221030|589|48.1815|8.6356|Rottweil|Baden-WÃ¼rttemberg
 
 04301|19470101|20221030|102|49.8502|7.8710|Kreuznach,_Bad|Rheinland-Pfalz
 
@@ -1288,17 +1288,17 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04323|19690101|20221030|461|49.6468|7.8837|Ruppertsecken|Rheinland-Pfalz
 
-04336|19510101|20221030|320|49.2128|7.1077|Saarbrücken-Ensheim|Saarland
+04336|19510101|20221030|320|49.2128|7.1077|SaarbrÃ¼cken-Ensheim|Saarland
 
-04339|19480101|20010331|193|49.2231|7.0168|Saarbrücken-Sankt_Johann|Saarland
+04339|19480101|20010331|193|49.2231|7.0168|SaarbrÃ¼cken-Sankt_Johann|Saarland
 
 04343|19790101|19970930|180|49.3256|6.7354|Saarlouis|Saarland
 
 04347|19480101|20030708|292|51.5909|10.5691|Sachsa,_Bad|Niedersachsen
 
-04349|19871101|20221030|251|48.9569|9.0711|Sachsenheim|Baden-Württemberg
+04349|19871101|20221030|251|48.9569|9.0711|Sachsenheim|Baden-WÃ¼rttemberg
 
-04350|19660101|20081231|339|47.5619|7.9399|Säckingen,_Bad_(Bergseestr.)|Baden-Württemberg
+04350|19660101|20081231|339|47.5619|7.9399|SÃ¤ckingen,_Bad_(Bergseestr.)|Baden-WÃ¼rttemberg
 
 04354|19850901|20221030|457|48.7832|13.3146|Saldenburg-Entschenreuth|Bayern
 
@@ -1310,9 +1310,9 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04377|19650101|20221030|518|50.3518|10.0034|Sandberg|Bayern
 
-04386|19470101|20061231|795|47.7610|8.1247|Sankt_Blasien|Baden-Württemberg
+04386|19470101|20061231|795|47.7610|8.1247|Sankt_Blasien|Baden-WÃ¼rttemberg
 
-04390|19630101|20041231|896|48.0091|8.0966|Sankt_Märgen|Baden-Württemberg
+04390|19630101|20041231|896|48.0091|8.0966|Sankt_MÃ¤rgen|Baden-WÃ¼rttemberg
 
 04393|19510101|20221030|5|54.3279|8.6031|Sankt_Peter-Ording|Schleswig-Holstein
 
@@ -1320,55 +1320,55 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04411|19791201|20221030|155|49.9195|8.9671|Schaafheim-Schlierbach|Hessen
 
-04419|19470101|20041231|212|47.9557|7.7133|Schallstadt-Mengen|Baden-Württemberg
+04419|19470101|20041231|212|47.9557|7.7133|Schallstadt-Mengen|Baden-WÃ¼rttemberg
 
 04429|19811201|19940831|778|47.5880|9.8500|Scheidegg|Bayern
 
-04433|19870101|20041231|519|48.1994|9.7700|Schemmerhofen-Ingerkingen|Baden-Württemberg
+04433|19870101|20041231|519|48.1994|9.7700|Schemmerhofen-Ingerkingen|Baden-WÃ¼rttemberg
 
-04438|19921201|20061231|317|49.9750|11.0395|Scheßlitz|Bayern
+04438|19921201|20061231|317|49.9750|11.0395|ScheÃŸlitz|Bayern
 
 04442|19810101|20071231|155|51.9119|9.1533|Schieder|Nordrhein-Westfalen
 
 04445|19021201|20221030|609|51.7658|10.6533|Wernigerode-Schierke|Sachsen-Anhalt
 
-04464|19510401|20221030|501|50.5679|11.8041|Schleiz|Thüringen
+04464|19510401|20221030|501|50.5679|11.8041|Schleiz|ThÃ¼ringen
 
 04466|19470101|20221030|43|54.5275|9.5487|Schleswig|Schleswig-Holstein
 
-04477|19570101|20100501|993|47.8208|8.1860|Schluchsee|Baden-Württemberg
+04477|19570101|20100501|993|47.8208|8.1860|Schluchsee|Baden-WÃ¼rttemberg
 
-04480|19851001|20221030|230|50.3447|9.5533|Schlüchtern-Herolz|Hessen
+04480|19851001|20221030|230|50.3447|9.5533|SchlÃ¼chtern-Herolz|Hessen
 
-04485|20050201|20170228|296|50.7250|10.4539|Schmalkalden,_Kurort|Thüringen
+04485|20050201|20170228|296|50.7250|10.4539|Schmalkalden,_Kurort|ThÃ¼ringen
 
-04490|19660101|20021231|223|49.4149|6.8360|Schmelz-Hüttersdorf|Saarland
+04490|19660101|20021231|223|49.4149|6.8360|Schmelz-HÃ¼ttersdorf|Saarland
 
-04501|19360101|20221030|938|50.6545|10.7696|Schmücke|Thüringen
+04501|19360101|20221030|938|50.6545|10.7696|SchmÃ¼cke|ThÃ¼ringen
 
 04508|19530101|20221030|649|50.2968|6.4194|Schneifelforsthaus|Rheinland-Pfalz
 
-04517|19470101|20081130|635|48.7859|8.6451|Schömberg,_Kr._Calw|Baden-Württemberg
+04517|19470101|20081130|635|48.7859|8.6451|SchÃ¶mberg,_Kr._Calw|Baden-WÃ¼rttemberg
 
-04548|20070701|20221030|608|50.1847|12.0791|Schönwald/Ofr.-Brunn|Bayern
+04548|20070701|20221030|608|50.1847|12.0791|SchÃ¶nwald/Ofr.-Brunn|Bayern
 
-04549|19770501|20100930|1021|48.1002|8.1969|Schönwald/Schwarzwald|Baden-Württemberg
+04549|19770501|20100930|1021|48.1002|8.1969|SchÃ¶nwald/Schwarzwald|Baden-WÃ¼rttemberg
 
-04556|19720901|20000831|904|48.1402|8.1991|Schonach|Baden-Württemberg
+04556|19720901|20000831|904|48.1402|8.1991|Schonach|Baden-WÃ¼rttemberg
 
-04557|19530101|20021031|399|47.6464|7.8440|Schopfheim-Eichen|Baden-Württemberg
+04557|19530101|20021031|399|47.6464|7.8440|Schopfheim-Eichen|Baden-WÃ¼rttemberg
 
-04559|19960501|20221030|398|49.1644|12.6175|Schorndorf-Knöbling|Bayern
+04559|19960501|20221030|398|49.1644|12.6175|Schorndorf-KnÃ¶bling|Bayern
 
 04560|19490101|20220102|265|50.4925|9.1226|Schotten|Hessen
 
 04571|19690601|19970331|504|51.8369|10.4312|Schulenberg|Niedersachsen
 
-04581|19510101|20021031|415|48.7768|9.8025|Schwäbisch_Gmünd-Strassdorf|Baden-Württemberg
+04581|19510101|20021031|415|48.7768|9.8025|SchwÃ¤bisch_GmÃ¼nd-Strassdorf|Baden-WÃ¼rttemberg
 
-04582|19830401|20010731|358|49.0823|9.6892|Schwäbisch_Hall-Bibersfeld|Baden-Württemberg
+04582|19830401|20010731|358|49.0823|9.6892|SchwÃ¤bisch_Hall-Bibersfeld|Baden-WÃ¼rttemberg
 
-04583|19911126|20081226|300|48.7868|9.7456|Schwäbisch_Gmünd_(Wind)|Baden-Württemberg
+04583|19911126|20081226|300|48.7868|9.7456|SchwÃ¤bisch_GmÃ¼nd_(Wind)|Baden-WÃ¼rttemberg
 
 04586|19910101|19980630|320|50.1394|8.0627|Schwalbach,_Bad|Hessen
 
@@ -1378,7 +1378,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04597|19450101|20101231|792|47.5769|10.7181|Schwangau-Horn|Bayern
 
-04605|19490705|20221030|277|50.6441|11.1936|Schwarzburg|Thüringen
+04605|19490705|20221030|277|50.6441|11.1936|Schwarzburg|ThÃ¼ringen
 
 04621|19580501|20031231|240|50.0575|10.2160|Schweinfurt-Gartenstadt|Bayern
 
@@ -1394,11 +1394,11 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04664|19410101|20000630|611|50.1969|12.1727|Selb/Oberfranken-Wildenau|Bayern
 
-04692|19370101|20181130|229|50.8534|7.9966|Siegen_(Kläranlage)|Nordrhein-Westfalen
+04692|19370101|20181130|229|50.8534|7.9966|Siegen_(KlÃ¤ranlage)|Nordrhein-Westfalen
 
-04702|20000702|20071101|645|48.1000|9.2500|Sigmaringen_(Flugplatz)|Baden-Württemberg
+04702|20000702|20071101|645|48.1000|9.2500|Sigmaringen_(Flugplatz)|Baden-WÃ¼rttemberg
 
-04703|19510101|20221030|581|48.0719|9.1943|Sigmaringen-Laiz|Baden-Württemberg
+04703|19510101|20221030|581|48.0719|9.1943|Sigmaringen-Laiz|Baden-WÃ¼rttemberg
 
 04704|19880501|20221030|508|47.5776|9.7404|Sigmarszell-Zeisertsweiler|Bayern
 
@@ -1406,7 +1406,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04709|19790401|20221030|445|49.9996|7.5981|Simmern-Wahlbach|Rheinland-Pfalz
 
-04719|19980101|20070828|169|49.2447|8.8787|Sinsheim|Baden-Württemberg
+04719|19980101|20070828|169|49.2447|8.8787|Sinsheim|Baden-WÃ¼rttemberg
 
 04729|19890701|20040229|342|50.2882|9.4583|Steinau-Seidenroth|Hessen
 
@@ -1414,13 +1414,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04745|19350101|20221030|75|52.9604|9.7930|Soltau|Niedersachsen
 
-04748|18610101|20101231|185|51.3691|10.8800|Sondershausen|Thüringen
+04748|18610101|20101231|185|51.3691|10.8800|Sondershausen|ThÃ¼ringen
 
-04752|19510101|20080701|626|50.3746|11.1828|Sonneberg-Neufang|Thüringen
+04752|19510101|20080701|626|50.3746|11.1828|Sonneberg-Neufang|ThÃ¼ringen
 
 04763|19610101|20221030|265|51.0607|9.9266|Sontra|Hessen
 
-04782|19910101|19911231|87|51.6040|12.1093|Spören-Prussendorf|Sachsen-Anhalt
+04782|19910101|19911231|87|51.6040|12.1093|SpÃ¶ren-Prussendorf|Sachsen-Anhalt
 
 04813|20200801|20221030|318|50.0806|11.0467|Staffelstein,_Bad-Stublang|Bayern
 
@@ -1432,71 +1432,71 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 04878|19300101|20221030|504|51.6646|10.8811|Oberharz_am_Brocken-Stiege|Sachsen-Anhalt
 
-04880|19841201|20221030|450|49.0878|10.1240|Stimpfach-Weipertshofen|Baden-Württemberg
+04880|19841201|20221030|450|49.0878|10.1240|Stimpfach-Weipertshofen|Baden-WÃ¼rttemberg
 
-04881|19771001|19940731|532|47.8591|9.0152|Stockach|Baden-Württemberg
+04881|19771001|19940731|532|47.8591|9.0152|Stockach|Baden-WÃ¼rttemberg
 
-04886|19751101|20070526|3|53.8333|9.3667|Störsperrwerk|Schleswig-Holstein
+04886|19751101|20070526|3|53.8333|9.3667|StÃ¶rsperrwerk|Schleswig-Holstein
 
-04887|19470101|20221030|734|48.6656|9.8648|Stötten|Baden-Württemberg
+04887|19470101|20221030|734|48.6656|9.8648|StÃ¶tten|Baden-WÃ¼rttemberg
 
 04896|19741201|20221030|40|54.6654|9.8050|Wagersrott|Schleswig-Holstein
 
 04911|19490501|20221030|351|48.8275|12.5597|Straubing|Bayern
 
-04919|19771001|20210421|7|54.4965|8.8069|Strucklahnungshörn|Schleswig-Holstein
+04919|19771001|20210421|7|54.4965|8.8069|StrucklahnungshÃ¶rn|Schleswig-Holstein
 
-04926|19460101|20130514|224|48.7896|9.2167|Stuttgart_(Neckartal)|Baden-Württemberg
+04926|19460101|20130514|224|48.7896|9.2167|Stuttgart_(Neckartal)|Baden-WÃ¼rttemberg
 
-04928|19580101|20221030|314|48.8281|9.2000|Stuttgart_(Schnarrenberg)|Baden-Württemberg
+04928|19580101|20221030|314|48.8281|9.2000|Stuttgart_(Schnarrenberg)|Baden-WÃ¼rttemberg
 
-04931|19530101|20221030|371|48.6883|9.2235|Stuttgart-Echterdingen|Baden-Württemberg
+04931|19530101|20221030|371|48.6883|9.2235|Stuttgart-Echterdingen|Baden-WÃ¼rttemberg
 
-04947|19880817|20221030|129|52.2317|10.9200|Süpplingen|Niedersachsen
+04947|19880817|20221030|129|52.2317|10.9200|SÃ¼pplingen|Niedersachsen
 
-04977|19930101|20020430|45|52.5447|11.9724|Tangermünde|Sachsen-Anhalt
+04977|19930101|20020430|45|52.5447|11.9724|TangermÃ¼nde|Sachsen-Anhalt
 
-04978|19860101|20221030|395|50.6390|10.0228|Tann/Rhön|Hessen
+04978|19860101|20221030|395|50.6390|10.0228|Tann/RhÃ¶n|Hessen
 
-04987|19860501|20040630|179|49.6122|9.6747|Tauberbischofsheim-Dittigheim|Baden-Württemberg
+04987|19860501|20040630|179|49.6122|9.6747|Tauberbischofsheim-Dittigheim|Baden-WÃ¼rttemberg
 
 04996|19360101|19991031|837|47.7099|11.7639|Tegernsee|Bayern
 
-04997|19941001|20221030|196|50.9771|12.3419|Starkenberg-Tegkwitz|Thüringen
+04997|19941001|20221030|196|50.9771|12.3419|Starkenberg-Tegkwitz|ThÃ¼ringen
 
 05009|19470101|20221030|33|53.7611|12.5574|Teterow|Mecklenburg-Vorpommern
 
-05014|19520101|20221030|7|53.2758|8.9857|Worpswede-Hüttenbusch|Niedersachsen
+05014|19520101|20221030|7|53.2758|8.9857|Worpswede-HÃ¼ttenbusch|Niedersachsen
 
 05017|19480101|20221030|633|50.4002|11.3888|Teuschnitz|Bayern
 
 05029|19750601|20221030|386|49.4737|7.0385|Tholey|Saarland
 
-05032|19860501|20031231|197|49.8850|9.8469|Thüngersheim|Bayern
+05032|19860501|20031231|197|49.8850|9.8469|ThÃ¼ngersheim|Bayern
 
-05039|19680301|19981231|236|50.8430|10.1613|Tiefenort|Thüringen
+05039|19680301|19981231|236|50.8430|10.1613|Tiefenort|ThÃ¼ringen
 
-05046|19670101|20221030|501|49.8576|12.3542|Tirschenreuth-Lodermühl|Bayern
+05046|19670101|20221030|501|49.8576|12.3542|Tirschenreuth-LodermÃ¼hl|Bayern
 
-05047|19480101|19951231|870|47.9394|8.1933|Titisee-Neustadt-Langenordnach|Baden-Württemberg
+05047|19480101|19951231|870|47.9394|8.1933|Titisee-Neustadt-Langenordnach|Baden-WÃ¼rttemberg
 
-05049|19570101|20080501|846|47.8991|8.1460|Titisee-Neustadt-Titisee|Baden-Württemberg
+05049|19570101|20080501|846|47.8991|8.1460|Titisee-Neustadt-Titisee|Baden-WÃ¼rttemberg
 
-05059|19821001|20021231|781|47.7279|7.9988|Todtmoos|Baden-Württemberg
+05059|19821001|20021231|781|47.7279|7.9988|Todtmoos|Baden-WÃ¼rttemberg
 
-05063|19360101|20070531|724|47.7566|11.5819|Tölz,_Bad|Bayern
+05063|19360101|20070531|724|47.7566|11.5819|TÃ¶lz,_Bad|Bayern
 
-05064|20041201|20221030|37|51.2897|6.4437|Tönisvorst|Nordrhein-Westfalen
+05064|20041201|20221030|37|51.2897|6.4437|TÃ¶nisvorst|Nordrhein-Westfalen
 
 05075|19711001|20040630|635|47.8516|12.6182|Traunstein-Axdorf|Bayern
 
-05078|19400101|20221030|2|53.9619|10.8892|Travemünde|Schleswig-Holstein
+05078|19400101|20221030|2|53.9619|10.8892|TravemÃ¼nde|Schleswig-Holstein
 
 05088|19910101|20001231|3|54.5337|13.2460|Trent|Mecklenburg-Vorpommern
 
-05094|19490101|20011231|683|48.1316|8.2283|Triberg|Baden-Württemberg
+05094|19490101|20011231|683|48.1316|8.2283|Triberg|Baden-WÃ¼rttemberg
 
-05095|19750701|20010901|700|48.1288|8.2330|Triberg_(Kurpark)|Baden-Württemberg
+05095|19750701|20010901|700|48.1288|8.2330|Triberg_(Kurpark)|Baden-WÃ¼rttemberg
 
 05097|19910101|20221030|10|54.0654|12.7655|Tribsees|Mecklenburg-Vorpommern
 
@@ -1504,45 +1504,45 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05100|19370101|20221030|265|49.7479|6.6583|Trier-Petrisberg|Rheinland-Pfalz
 
-05107|19880601|20031231|769|48.2814|9.3137|Trochtelfingen-Wilsingen|Baden-Württemberg
+05107|19880601|20031231|769|48.2814|9.3137|Trochtelfingen-Wilsingen|Baden-WÃ¼rttemberg
 
 05109|20000701|20221030|68|53.5998|13.3039|Trollenhagen|Mecklenburg-Vorpommern
 
 05111|19450101|20221030|560|48.0311|12.5396|Trostberg|Bayern
 
-05127|19910201|20031231|649|48.0083|8.8179|Tuttlingen|Baden-Württemberg
+05127|19910201|20031231|649|48.0083|8.8179|Tuttlingen|Baden-WÃ¼rttemberg
 
-05133|19980601|20221030|295|51.3344|8.9132|Twistetal-Mühlhausen|Hessen
+05133|19980601|20221030|295|51.3344|8.9132|Twistetal-MÃ¼hlhausen|Hessen
 
-05138|19460101|20031231|446|47.7713|9.1562|Überlingen/Bodensee|Baden-Württemberg
+05138|19460101|20031231|446|47.7713|9.1562|Ãœberlingen/Bodensee|Baden-WÃ¼rttemberg
 
-05142|19360901|20221030|1|53.7445|14.0698|Ueckermünde|Mecklenburg-Vorpommern
+05142|19360901|20221030|1|53.7445|14.0698|UeckermÃ¼nde|Mecklenburg-Vorpommern
 
 05146|19510101|20221030|50|52.9414|10.5289|Uelzen|Niedersachsen
 
 05149|19510301|20221004|306|49.5741|10.1915|Gollhofen|Bayern
 
-05154|19740101|19960930|576|48.4000|9.9833|Ulm-Wilhelmsburg|Baden-Württemberg
+05154|19740101|19960930|576|48.4000|9.9833|Ulm-Wilhelmsburg|Baden-WÃ¼rttemberg
 
-05155|19440101|20140901|567|48.3837|9.9524|Ulm|Baden-Württemberg
+05155|19440101|20140901|567|48.3837|9.9524|Ulm|Baden-WÃ¼rttemberg
 
 05158|19871201|20221028|159|52.1601|11.1759|Ummendorf|Sachsen-Anhalt
 
-05165|19480201|20061231|95|52.8499|10.2898|Unterlüß|Niedersachsen
+05165|19480201|20061231|95|52.8499|10.2898|UnterlÃ¼ÃŸ|Niedersachsen
 
-05174|19750101|20051231|471|48.4951|9.4003|Urach,_Bad|Baden-Württemberg
+05174|19750101|20051231|471|48.4951|9.4003|Urach,_Bad|Baden-WÃ¼rttemberg
 
 05185|19711101|20061231|291|49.5933|11.0704|Uttenreuth|Bayern
 
 05226|19870611|20011117|708|47.9530|10.9151|Vilgertshofen|Bayern
 
-05229|19470101|20221030|719|48.0453|8.4608|Villingen-Schwenningen|Baden-Württemberg
+05229|19470101|20221030|719|48.0453|8.4608|Villingen-Schwenningen|Baden-WÃ¼rttemberg
 
-05245|19760101|19990831|187|49.2495|6.8804|Völklingen_(Kraftwerk-Fenne)|Saarland
+05245|19760101|19990831|187|49.2495|6.8804|VÃ¶lklingen_(Kraftwerk-Fenne)|Saarland
 
-05250|19360101|20031231|223|48.0908|7.6353|Vogtsburg-Oberrotweil|Baden-Württemberg
+05250|19360101|20031231|223|48.0908|7.6353|Vogtsburg-Oberrotweil|Baden-WÃ¼rttemberg
 
-05275|19851001|20221030|105|49.2445|8.5374|Waghäusel-Kirrlach|Baden-Württemberg
+05275|19851001|20221030|105|49.2445|8.5374|WaghÃ¤usel-Kirrlach|Baden-WÃ¼rttemberg
 
 05277|19980101|20090630|349|50.8119|9.1280|Wahlen|Hessen
 
@@ -1550,27 +1550,27 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05280|19810401|20221030|35|53.9224|10.2267|Wittenborn|Schleswig-Holstein
 
-05284|19780101|19911231|224|48.8279|9.3228|Waiblingen|Baden-Württemberg
+05284|19780101|19911231|224|48.8279|9.3228|Waiblingen|Baden-WÃ¼rttemberg
 
-05289|19830101|20080430|595|48.4918|8.5612|Waldachtal-Lützenhardt|Baden-Württemberg
+05289|19830101|20080430|595|48.4918|8.5612|Waldachtal-LÃ¼tzenhardt|Baden-WÃ¼rttemberg
 
 05300|19510101|20221030|380|50.2596|8.3607|Waldems-Reinborn|Hessen
 
-05306|19711201|20031231|940|48.9293|13.4641|Waldhäuser_(National_Park)|Bayern
+05306|19711201|20031231|940|48.9293|13.4641|WaldhÃ¤user_(National_Park)|Bayern
 
-05319|19810801|20221030|576|47.9167|9.7076|Waldsee,_Bad-Reute|Baden-Württemberg
+05319|19810801|20221030|576|47.9167|9.7076|Waldsee,_Bad-Reute|Baden-WÃ¼rttemberg
 
-05320|19530101|19910630|330|47.6172|8.2388|Waldshut|Baden-Württemberg
+05320|19530101|19910630|330|47.6172|8.2388|Waldshut|Baden-WÃ¼rttemberg
 
-05327|19810714|20221030|404|49.5789|9.3975|Walldürn|Baden-Württemberg
+05327|19810714|20221030|404|49.5789|9.3975|WalldÃ¼rn|Baden-WÃ¼rttemberg
 
-05335|19450101|20221030|352|50.8963|10.5483|Waltershausen|Thüringen
+05335|19450101|20221030|352|50.8963|10.5483|Waltershausen|ThÃ¼ringen
 
 05344|19410301|20061231|2|53.7865|7.9096|Wangerooge|Niedersachsen
 
 05347|19980101|20221030|236|51.5039|9.1118|Warburg|Nordrhein-Westfalen
 
-05349|18890701|20221030|73|53.5196|12.6654|Waren_(Müritz)|Mecklenburg-Vorpommern
+05349|18890701|20221030|73|53.5196|12.6654|Waren_(MÃ¼ritz)|Mecklenburg-Vorpommern
 
 05361|19490101|20051231|270|50.6271|9.4420|Wartenberg-Angersbach|Hessen
 
@@ -1582,15 +1582,15 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05403|19911101|20041231|309|49.5900|10.2588|Weigenheim-Reusch|Bayern
 
-05404|19360701|20221030|477|48.4024|11.6946|Weihenstephan-Dürnast|Bayern
+05404|19360701|20221030|477|48.4024|11.6946|Weihenstephan-DÃ¼rnast|Bayern
 
-05410|19470101|19930630|150|50.4732|8.2588|Weilburg_(Kläranlage)|Hessen
+05410|19470101|19930630|150|50.4732|8.2588|Weilburg_(KlÃ¤ranlage)|Hessen
 
-05412|19910531|20221030|771|47.6802|8.1964|Weilheim-Bierbronnen|Baden-Württemberg
+05412|19910531|20221030|771|47.6802|8.1964|Weilheim-Bierbronnen|Baden-WÃ¼rttemberg
 
-05419|19500101|20070630|264|50.9751|11.3076|Weimar|Thüringen
+05419|19500101|20070630|264|50.9751|11.3076|Weimar|ThÃ¼ringen
 
-05424|19490301|20221030|328|51.0177|11.3544|Weimar-Schöndorf|Thüringen
+05424|19490301|20221030|328|51.0177|11.3544|Weimar-SchÃ¶ndorf|ThÃ¼ringen
 
 05426|19530101|20221030|553|49.3758|8.1212|Weinbiet|Rheinland-Pfalz
 
@@ -1598,15 +1598,15 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05434|19510101|19920531|317|50.0858|11.2364|Weismain|Bayern
 
-05435|19810101|20031231|455|48.8457|8.9073|Weissach|Baden-Württemberg
+05435|19810101|20031231|455|48.8457|8.9073|Weissach|Baden-WÃ¼rttemberg
 
-05440|18790101|20221030|439|49.0115|10.9308|Weißenburg-Emetzheim|Bayern
+05440|18790101|20221030|439|49.0115|10.9308|WeiÃŸenburg-Emetzheim|Bayern
 
-05442|19490401|20051231|109|51.2002|11.9154|Weißenfels|Sachsen-Anhalt
+05442|19490401|20051231|109|51.2002|11.9154|WeiÃŸenfels|Sachsen-Anhalt
 
-05445|19830201|20071231|165|51.2120|10.9956|Weißensee-Ottenhausen|Thüringen
+05445|19830201|20071231|165|51.2120|10.9956|WeiÃŸensee-Ottenhausen|ThÃ¼ringen
 
-05453|19920601|20031231|174|48.1880|7.6976|Weisweil-Waldeckhof|Baden-Württemberg
+05453|19920601|20031231|174|48.1880|7.6976|Weisweil-Waldeckhof|Baden-WÃ¼rttemberg
 
 05463|19941201|20000131|58|52.0654|14.6898|Wellmitz|Brandenburg
 
@@ -1616,7 +1616,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05490|19470101|20221030|233|51.8454|10.7686|Wernigerode|Sachsen-Anhalt
 
-05498|18681020|20041130|140|49.7667|9.5428|Wertheim-Eichel|Baden-Württemberg
+05498|18681020|20041130|140|49.7667|9.5428|Wertheim-Eichel|Baden-WÃ¼rttemberg
 
 05516|19480101|20221030|3|54.5283|11.0606|Fehmarn|Schleswig-Holstein
 
@@ -1624,17 +1624,17 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05538|19990201|20221030|551|47.8827|11.1576|Wielenbach_(Demollstr.)|Bayern
 
-05540|19360101|20120630|132|50.0652|8.2597|Wiesbaden_(Süd)|Hessen
+05540|19360101|20120630|132|50.0652|8.2597|Wiesbaden_(SÃ¼d)|Hessen
 
 05541|19870601|20221030|263|50.1321|8.3169|Wiesbaden-Auringen|Hessen
 
 05546|19670401|20221030|187|52.1206|12.4586|Wiesenburg|Brandenburg
 
-05559|19490101|20010630|383|48.7848|8.5764|Wildbad,_Bad-Calmbach|Baden-Württemberg
+05559|19490101|20010630|383|48.7848|8.5764|Wildbad,_Bad-Calmbach|Baden-WÃ¼rttemberg
 
-05560|19460101|20031130|740|48.7501|8.5365|Wildbad,_Bad-Sommerberg|Baden-Württemberg
+05560|19460101|20031130|740|48.7501|8.5365|Wildbad,_Bad-Sommerberg|Baden-WÃ¼rttemberg
 
-05562|19950401|20221030|571|48.6516|8.6801|Neubulach-Oberhaugstett|Baden-Württemberg
+05562|19950401|20221030|571|48.6516|8.6801|Neubulach-Oberhaugstett|Baden-WÃ¼rttemberg
 
 05564|19750101|19920331|88|51.1167|6.2167|Wildenrath|Nordrhein-Westfalen
 
@@ -1646,7 +1646,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05583|19830801|20060131|594|51.2818|8.6673|Willingen/Upland-Usseln|Hessen
 
-05609|19940801|20020331|241|48.8031|9.4699|Winterbach,_Rems-Murr-Kreis|Baden-Württemberg
+05609|19940801|20020331|241|48.8031|9.4699|Winterbach,_Rems-Murr-Kreis|Baden-WÃ¼rttemberg
 
 05610|19580101|20081231|733|51.1872|8.5079|Winterberg|Nordrhein-Westfalen
 
@@ -1656,27 +1656,27 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05642|20000702|20010928|72|53.1833|12.5167|Wittstock|Brandenburg
 
-05643|19940301|20221030|68|53.1864|12.4949|Wittstock-Rote_Mühle|Brandenburg
+05643|19940301|20221030|68|53.1864|12.4949|Wittstock-Rote_MÃ¼hle|Brandenburg
 
 05644|19480101|19990831|133|51.3493|9.8438|Witzenhausen|Hessen
 
-05654|19480701|20071231|464|49.2178|10.2296|Wörnitz-Bottenweiler|Bayern
+05654|19480701|20071231|464|49.2178|10.2296|WÃ¶rnitz-Bottenweiler|Bayern
 
 05663|19790101|19961130|118|53.4618|13.6099|Woldegk|Mecklenburg-Vorpommern
 
-05664|19580101|20221030|296|48.2953|8.2391|Wolfach|Baden-Württemberg
+05664|19580101|20221030|296|48.2953|8.2391|Wolfach|Baden-WÃ¼rttemberg
 
-05665|19791001|20100501|677|47.8180|9.7970|Wolfegg|Baden-Württemberg
+05665|19791001|20100501|677|47.8180|9.7970|Wolfegg|Baden-WÃ¼rttemberg
 
-05676|19810401|20221030|82|52.3962|10.6892|Wolfsburg_(Südwest)|Niedersachsen
+05676|19810401|20221030|82|52.3962|10.6892|Wolfsburg_(SÃ¼dwest)|Niedersachsen
 
 05681|19810901|19981231|200|49.5811|7.6234|Wolfstein/Pfalz|Rheinland-Pfalz
 
-05688|20181101|20221030|881|47.7004|8.1057|Dachsberg-Wolpadingen|Baden-Württemberg
+05688|20181101|20221030|881|47.7004|8.1057|Dachsberg-Wolpadingen|Baden-WÃ¼rttemberg
 
 05692|19360101|20221030|88|49.6051|8.3659|Worms|Rheinland-Pfalz
 
-05705|19470101|20221030|268|49.7704|9.9576|Würzburg|Bayern
+05705|19470101|20221030|268|49.7704|9.9576|WÃ¼rzburg|Bayern
 
 05715|19740101|20221030|49|52.4626|9.4245|Wunstorf|Niedersachsen
 
@@ -1684,9 +1684,9 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05719|20041001|20091210|235|51.2051|7.2000|Remscheid|Nordrhein-Westfalen
 
-05731|19610101|20221030|395|47.6783|8.3801|Wutöschingen-Ofteringen|Baden-Württemberg
+05731|19610101|20221030|395|47.6783|8.3801|WutÃ¶schingen-Ofteringen|Baden-WÃ¼rttemberg
 
-05732|18870701|20030630|8|54.6928|8.5271|Wrixum/Föhr|Schleswig-Holstein
+05732|18870701|20030630|8|54.6928|8.5271|Wrixum/FÃ¶hr|Schleswig-Holstein
 
 05745|19480701|20221030|51|52.9663|13.3268|Zehdenick|Brandenburg
 
@@ -1710,11 +1710,11 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05839|19970701|20221030|-0|53.3881|7.2287|Emden|Niedersachsen
 
-05840|19740601|20050331|600|48.6671|8.4700|Enzklösterle|Baden-Württemberg
+05840|19740601|20050331|600|48.6671|8.4700|EnzklÃ¶sterle|Baden-WÃ¼rttemberg
 
 05851|19970312|20221030|392|51.0806|8.8769|Frankenberg-Geismar|Hessen
 
-05856|19961231|20221030|476|48.5451|13.3532|Fürstenzell|Bayern
+05856|19961231|20221030|476|48.5451|13.3532|FÃ¼rstenzell|Bayern
 
 05871|19981101|20221030|497|49.9463|7.2645|Hahn|Rheinland-Pfalz
 
@@ -1724,17 +1724,17 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 05904|19780501|20050131|431|48.6493|11.7772|Mainburg|Bayern
 
-05906|19360101|20221030|98|49.5063|8.5584|Mannheim|Baden-Württemberg
+05906|19360101|20221030|98|49.5063|8.5584|Mannheim|Baden-WÃ¼rttemberg
 
 05912|19500101|20031231|169|51.0988|9.5380|Malsfeld|Hessen
 
 05920|19500101|19970731|91|50.4485|7.4275|Neuwied|Rheinland-Pfalz
 
-05930|19810801|20221030|1|54.6410|10.0238|Schönhagen_(Ostseebad)|Schleswig-Holstein
+05930|19810801|20221030|1|54.6410|10.0238|SchÃ¶nhagen_(Ostseebad)|Schleswig-Holstein
 
 05941|19450101|20221030|686|47.6754|12.4698|Reit_im_Winkl|Bayern
 
-06086|19971101|20000630|71|52.7786|13.7590|Melchow-Schönholz|Brandenburg
+06086|19971101|20000630|71|52.7786|13.7590|Melchow-SchÃ¶nholz|Brandenburg
 
 06091|19971008|20221030|14|53.7674|7.6721|Spiekeroog_(SWN)|Niedersachsen
 
@@ -1742,15 +1742,15 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 06095|19980501|19990930|273|51.0838|13.4486|Taubenheim-Seeligstadt|Sachsen
 
-06096|19980717|20221030|416|49.1423|10.7301|Altmühlsee|Bayern
+06096|19980717|20221030|416|49.1423|10.7301|AltmÃ¼hlsee|Bayern
 
-06097|19981104|20221030|4|54.4738|12.5014|Darßer_Ort_(SWN)|Mecklenburg-Vorpommern
+06097|19981104|20221030|4|54.4738|12.5014|DarÃŸer_Ort_(SWN)|Mecklenburg-Vorpommern
 
-06098|20000503|20100430|398|47.8147|9.0237|Stockach-Espasingen|Baden-Württemberg
+06098|20000503|20100430|398|47.8147|9.0237|Stockach-Espasingen|Baden-WÃ¼rttemberg
 
-06099|20000420|20221030|449|47.7020|8.7318|Gailingen|Baden-Württemberg
+06099|20000420|20221030|449|47.7020|8.7318|Gailingen|Baden-WÃ¼rttemberg
 
-06101|19991216|20221030|51|54.1323|11.6719|Bastorf-Kägsdorf_(SWN)|Mecklenburg-Vorpommern
+06101|19991216|20221030|51|54.1323|11.6719|Bastorf-KÃ¤gsdorf_(SWN)|Mecklenburg-Vorpommern
 
 06102|19990331|20221030|397|47.5396|9.6843|Lindau_(SWN)|Bayern
 
@@ -1760,7 +1760,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 06106|20020630|20221030|62|53.3311|12.7149|Rechlin|Mecklenburg-Vorpommern
 
-06107|19990414|20221030|703|47.8076|9.1035|Sipplingen_(SWN)|Baden-Württemberg
+06107|19990414|20221030|703|47.8076|9.1035|Sipplingen_(SWN)|Baden-WÃ¼rttemberg
 
 06108|20010627|20221030|7|53.7197|9.4192|Ruthenstrom|Niedersachsen
 
@@ -1772,85 +1772,85 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 06129|19990501|20221030|291|51.0593|14.4266|Sohland/Spree|Sachsen
 
-06136|19820801|19950430|220|50.7000|8.3000|Dillenburg-Niederscheld_(Kläranlage)|Hessen
+06136|19820801|19950430|220|50.7000|8.3000|Dillenburg-Niederscheld_(KlÃ¤ranlage)|Hessen
 
 06157|19990201|20221030|8|53.6410|8.0808|Wangerland-Hooksiel|Niedersachsen
 
 06158|19990701|20221030|454|49.2249|10.6085|Weidenbach-Weiherschneidbach|Bayern
 
-06159|19590301|20221030|8|52.9542|7.3196|Dörpen|Niedersachsen
+06159|19590301|20221030|8|52.9542|7.3196|DÃ¶rpen|Niedersachsen
 
-06163|19991004|20221030|27|54.1654|10.3519|Dörnick|Schleswig-Holstein
+06163|19991004|20221030|27|54.1654|10.3519|DÃ¶rnick|Schleswig-Holstein
 
 06170|20000201|20221030|39|52.0192|14.7254|Coschen|Brandenburg
 
-06181|19870601|19921231|218|51.3154|9.4281|Kassel-Wilhelmshöhe|Hessen
+06181|19870601|19921231|218|51.3154|9.4281|Kassel-WilhelmshÃ¶he|Hessen
 
 06182|20000401|20120327|404|48.7757|12.1743|Mallersdorf-Pfaffenberg|Bayern
 
 06184|19880801|20090615|6|53.5333|8.1667|Wilhelmshaven_(Flugplatz)|Niedersachsen
 
-06186|20000401|20190527|268|50.1989|7.8651|Nastätten|Rheinland-Pfalz
+06186|20000401|20190527|268|50.1989|7.8651|NastÃ¤tten|Rheinland-Pfalz
 
-06189|19710101|19950831|34|53.1333|9.3500|Rotenburg_(Wümme)_(Flugplatz)|Niedersachsen
+06189|19710101|19950831|34|53.1333|9.3500|Rotenburg_(WÃ¼mme)_(Flugplatz)|Niedersachsen
 
-06192|20000201|20081031|115|49.8083|7.8458|Münster_am_Stein,_Bad|Rheinland-Pfalz
+06192|20000201|20081031|115|49.8083|7.8458|MÃ¼nster_am_Stein,_Bad|Rheinland-Pfalz
 
 06196|20000901|20220405|611|50.1587|12.0386|Selb-Spielberg|Bayern
 
-06197|20001011|20221030|258|51.8664|9.2710|Lügde-Paenbruch|Nordrhein-Westfalen
+06197|20001011|20221030|258|51.8664|9.2710|LÃ¼gde-Paenbruch|Nordrhein-Westfalen
 
 06199|20000801|20221030|17|54.2484|13.0418|Steinhagen-Negast|Mecklenburg-Vorpommern
 
-06211|19870610|20221030|464|47.9550|12.1735|Vogtareuth_(Kläranlage)|Bayern
+06211|19870610|20221030|464|47.9550|12.1735|Vogtareuth_(KlÃ¤ranlage)|Bayern
 
-06217|20010401|20221030|190|49.2406|6.9351|Saarbrücken-Burbach|Saarland
+06217|20010401|20221030|190|49.2406|6.9351|SaarbrÃ¼cken-Burbach|Saarland
 
 06219|20010701|20011031|394|48.8768|11.1043|Dollnstein-Breitenfurt|Bayern
 
-06221|19910903|19940630|6|53.5084|7.0781|Krummhörn_(Hooge)|Niedersachsen
+06221|19910903|19940630|6|53.5084|7.0781|KrummhÃ¶rn_(Hooge)|Niedersachsen
 
 06238|20011123|20170729|675|47.9946|11.2690|Starnberg-Perchting|Bayern
 
-06242|20181019|20210701|64|50.4088|7.4890|Mülheim-Kärlich|Rheinland-Pfalz
+06242|20181019|20210701|64|50.4088|7.4890|MÃ¼lheim-KÃ¤rlich|Rheinland-Pfalz
 
-06243|20180712|20221030|96|49.2506|8.4422|Philippsburg_KKW|Baden-Württemberg
+06243|20180712|20221030|96|49.2506|8.4422|Philippsburg_KKW|Baden-WÃ¼rttemberg
 
-06244|20180712|20221030|145|49.3650|9.0804|Obrigheim|Baden-Württemberg
+06244|20180712|20221030|145|49.3650|9.0804|Obrigheim|Baden-WÃ¼rttemberg
 
-06245|20180611|20221030|180|49.0423|9.1733|Neckarwestheim_KKW|Baden-Württemberg
+06245|20180611|20221030|180|49.0423|9.1733|Neckarwestheim_KKW|Baden-WÃ¼rttemberg
 
-06247|20180701|20221030|307|47.6078|8.1813|Dogern_(Leibstadt)|Baden-Württemberg
+06247|20180701|20221030|307|47.6078|8.1813|Dogern_(Leibstadt)|Baden-WÃ¼rttemberg
 
 06253|20011001|20221030|31|52.4228|12.5667|Brandenburg/Havel|Brandenburg
 
 06255|20181018|20181231|351|49.4667|6.3968|Perl/Saar|Saarland
 
-06258|20030101|20221030|461|47.6845|9.4409|Friedrichshafen-Unterraderach|Baden-Württemberg
+06258|20030101|20221030|461|47.6845|9.4409|Friedrichshafen-Unterraderach|Baden-WÃ¼rttemberg
 
-06259|20040601|20221030|524|49.0210|9.6033|Großerlach-Mannenweiler|Baden-Württemberg
+06259|20040601|20221030|524|49.0210|9.6033|GroÃŸerlach-Mannenweiler|Baden-WÃ¼rttemberg
 
-06260|20021201|20221030|385|49.3328|9.7040|Ingelfingen-Stachenhausen|Baden-Württemberg
+06260|20021201|20221030|385|49.3328|9.7040|Ingelfingen-Stachenhausen|Baden-WÃ¼rttemberg
 
-06262|20021101|20221030|412|48.7695|9.8737|Schwäbisch_Gmünd-Weiler|Baden-Württemberg
+06262|20021101|20221030|412|48.7695|9.8737|SchwÃ¤bisch_GmÃ¼nd-Weiler|Baden-WÃ¼rttemberg
 
-06263|20040701|20221030|445|47.7738|8.8219|Singen|Baden-Württemberg
+06263|20040701|20221030|445|47.7738|8.8219|Singen|Baden-WÃ¼rttemberg
 
-06264|20040601|20221030|457|51.4140|8.6500|Brilon-Thülen|Nordrhein-Westfalen
+06264|20040601|20221030|457|51.4140|8.6500|Brilon-ThÃ¼len|Nordrhein-Westfalen
 
 06265|20040501|20221030|36|52.3613|12.3867|Wusterwitz|Brandenburg
 
 06266|20040901|20221030|112|52.0304|10.9626|Huy-Pabstorf|Sachsen-Anhalt
 
-06272|20041001|20221030|283|50.8426|10.2518|Salzungen,_Bad-Gräfen-Nitzendorf|Thüringen
+06272|20041001|20221030|283|50.8426|10.2518|Salzungen,_Bad-GrÃ¤fen-Nitzendorf|ThÃ¼ringen
 
 06273|20040601|20221030|36|52.5075|11.8551|Demker|Sachsen-Anhalt
 
-06275|20040701|20221030|327|48.6705|9.4627|Notzingen|Baden-Württemberg
+06275|20040701|20221030|327|48.6705|9.4627|Notzingen|Baden-WÃ¼rttemberg
 
 06304|20021001|20061231|550|49.3533|11.5053|Pilsach-Litzlohe|Bayern
 
-06305|20041201|20221030|193|51.2061|10.4978|Mühlhausen/Thüringen-Görmar|Thüringen
+06305|20041201|20221030|193|51.2061|10.4978|MÃ¼hlhausen/ThÃ¼ringen-GÃ¶rmar|ThÃ¼ringen
 
 06310|20040801|20221030|1|54.1049|13.8239|Karlshagen|Mecklenburg-Vorpommern
 
@@ -1860,7 +1860,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 06336|20051101|20221030|288|50.0132|9.6540|Lohr/Main-Halsbach|Bayern
 
-06337|20040801|20221030|59|51.7663|7.5194|Lüdinghausen-Brochtrup|Nordrhein-Westfalen
+06337|20040801|20221030|59|51.7663|7.5194|LÃ¼dinghausen-Brochtrup|Nordrhein-Westfalen
 
 06344|20041201|20221030|168|50.3940|8.1423|Runkel-Ennerich|Hessen
 
@@ -1872,13 +1872,13 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 07099|20041101|20211004|187|52.0111|10.3966|Liebenburg-Othfresen|Niedersachsen
 
-07105|20050601|20221030|719|47.8350|12.6548|Siegsdorf-Höll|Bayern
+07105|20050601|20221030|719|47.8350|12.6548|Siegsdorf-HÃ¶ll|Bayern
 
 07106|20060901|20221030|105|52.0714|8.4565|Bielefeld-Deppendorf|Nordrhein-Westfalen
 
-07135|19510101|20041231|565|47.9655|9.6804|Aulendorf-Haslach|Baden-Württemberg
+07135|19510101|20041231|565|47.9655|9.6804|Aulendorf-Haslach|Baden-WÃ¼rttemberg
 
-07187|20041201|20221030|194|49.7636|9.4063|Freudenberg/Main-Boxtal|Baden-Württemberg
+07187|20041201|20221030|194|49.7636|9.4063|Freudenberg/Main-Boxtal|Baden-WÃ¼rttemberg
 
 07244|19670101|20040930|62|53.1424|13.0319|Neuglobsow_(HM)|Brandenburg
 
@@ -1886,9 +1886,9 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 07308|19850206|20180125|541|47.8847|11.1540|Wielenbach|Bayern
 
-07319|20050301|20221030|435|48.7374|10.7393|Donauwörth-Osterweiler|Bayern
+07319|20050301|20221030|435|48.7374|10.7393|DonauwÃ¶rth-Osterweiler|Bayern
 
-07321|20050901|20221030|160|51.1507|11.3321|Olbersleben|Thüringen
+07321|20050901|20221030|160|51.1507|11.3321|Olbersleben|ThÃ¼ringen
 
 07325|20110901|20170116|2650|47.4165|10.9795|Schneefernerhaus|Bayern
 
@@ -1896,25 +1896,25 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 07330|20051001|20221030|159|51.4633|7.9780|Arnsberg-Neheim|Nordrhein-Westfalen
 
-07331|20050901|20221030|467|48.6099|10.2674|Hermaringen-Allewind|Baden-Württemberg
+07331|20050901|20221030|467|48.6099|10.2674|Hermaringen-Allewind|Baden-WÃ¼rttemberg
 
 07341|20050715|20221030|119|50.0900|8.7862|Offenbach-Wetterpark|Hessen
 
-07343|20060401|20221030|689|50.6200|13.4817|Deutschneudorf-Brüderwiese|Sachsen
+07343|20060401|20221030|689|50.6200|13.4817|Deutschneudorf-BrÃ¼derwiese|Sachsen
 
-07350|20060801|20221030|585|49.1088|12.8231|Prackenbach-Neuhäusl|Bayern
+07350|20060801|20221030|585|49.1088|12.8231|Prackenbach-NeuhÃ¤usl|Bayern
 
 07351|20050908|20221030|115|53.3176|13.4175|Feldberg/Mecklenburg|Mecklenburg-Vorpommern
 
-07364|20070101|20221030|74|51.6818|12.3053|Jeßnitz|Sachsen-Anhalt
+07364|20070101|20221030|74|51.6818|12.3053|JeÃŸnitz|Sachsen-Anhalt
 
 07367|20071201|20221030|144|51.9643|9.8072|Alfeld|Niedersachsen
 
-07368|20071101|20221030|312|51.0007|10.3621|Eisenach|Thüringen
+07368|20071101|20221030|312|51.0007|10.3621|Eisenach|ThÃ¼ringen
 
 07369|20071101|20221030|475|49.1623|10.3661|Feuchtwangen-Heilbronn|Bayern
 
-07370|20061211|20221030|499|49.3910|12.6838|Waldmünchen|Bayern
+07370|20061211|20221030|499|49.3910|12.6838|WaldmÃ¼nchen|Bayern
 
 07373|20060301|20221030|3|53.5984|6.7024|Borkum-Flugplatz|Niedersachsen
 
@@ -1928,21 +1928,21 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 07393|20100101|20221030|116|51.4492|14.2533|Hoyerswerda|Sachsen
 
-07394|20060601|20221030|622|50.0315|11.9745|Wunsiedel-Schönbrunn|Bayern
+07394|20060601|20221030|622|50.0315|11.9745|Wunsiedel-SchÃ¶nbrunn|Bayern
 
 07395|20071201|20221030|351|48.6595|12.5388|Gottfrieding|Bayern
 
 07396|20080501|20221030|740|50.5084|9.2246|Hoherodskopf/Vogelsberg|Hessen
 
-07403|20070330|20221030|672|47.7955|10.0325|Leutkirch-Herlazhofen|Baden-Württemberg
+07403|20070330|20221030|672|47.7955|10.0325|Leutkirch-Herlazhofen|Baden-WÃ¼rttemberg
 
 07410|20110201|20221030|350|50.7513|9.0224|Neu-Ulrichstein|Hessen
 
-07412|20061001|20221030|340|50.0083|9.4238|Neuhütten/Spessart|Bayern
+07412|20061001|20221030|340|50.0083|9.4238|NeuhÃ¼tten/Spessart|Bayern
 
 07416|20080911|20221030|541|51.0112|8.2733|Birkelbach|Nordrhein-Westfalen
 
-07419|20061201|20221030|389|50.6610|12.0756|Langenwetzendorf-Göttendorf|Thüringen
+07419|20061201|20221030|389|50.6610|12.0756|Langenwetzendorf-GÃ¶ttendorf|ThÃ¼ringen
 
 07420|20070401|20221030|246|51.1044|11.7112|Naumburg/Saale-Kreipitzsch|Sachsen-Anhalt
 
@@ -1950,35 +1950,35 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 07427|20070901|20221030|17|54.0188|9.9255|Padenstedt_(Pony-Park)|Schleswig-Holstein
 
-07428|20070501|20221030|397|50.4167|10.8156|Veilsdorf|Thüringen
+07428|20070501|20221030|397|50.4167|10.8156|Veilsdorf|ThÃ¼ringen
 
 07431|20071101|20221030|604|48.0130|11.5524|Oberhaching-Laufzorn|Bayern
 
 07432|20070501|20221030|72|52.6423|10.6627|Wittingen-Vorhop|Niedersachsen
 
-10510|20090101|20221030|244|48.8059|9.5046|Winterbach/Remstal|Baden-Württemberg
+10510|20090101|20221030|244|48.8059|9.5046|Winterbach/Remstal|Baden-WÃ¼rttemberg
 
-13667|20061123|20080706|274|48.0006|7.8450|Freiburg-Mitte|Baden-Württemberg
+13667|20061123|20080706|274|48.0006|7.8450|Freiburg-Mitte|Baden-WÃ¼rttemberg
 
 13670|20070601|20221030|24|51.5088|6.7018|Duisburg-Baerl|Nordrhein-Westfalen
 
-13674|20070801|20221030|237|49.2943|8.9053|Waibstadt|Baden-Württemberg
+13674|20070801|20221030|237|49.2943|8.9053|Waibstadt|Baden-WÃ¼rttemberg
 
 13675|20071101|20221030|77|52.0818|9.4077|Hameln-Hastenbeck|Niedersachsen
 
 13676|20100101|20221030|378|48.8608|12.0323|Langquaid-Oberschneidhart|Bayern
 
-13693|20080611|20221030|70|51.9258|8.3111|Gütersloh/Ems|Nordrhein-Westfalen
+13693|20080611|20221030|70|51.9258|8.3111|GÃ¼tersloh/Ems|Nordrhein-Westfalen
 
 13696|20071201|20221030|60|51.5966|7.4048|Waltrop-Abdinghof|Nordrhein-Westfalen
 
-13700|20080501|20221030|203|51.3329|7.3412|Gevelsberg-Oberbröking|Nordrhein-Westfalen
+13700|20080501|20221030|203|51.3329|7.3412|Gevelsberg-OberbrÃ¶king|Nordrhein-Westfalen
 
 13701|20080901|20221030|250|51.1945|9.9885|Eschwege-Eltmannshausen|Hessen
 
 13710|20080401|20221030|490|48.5734|12.2576|Landshut-Reithof|Bayern
 
-13711|20071201|20221030|289|50.6820|11.5150|Krölpa-Rockendorf|Thüringen
+13711|20071201|20221030|289|50.6820|11.5150|KrÃ¶lpa-Rockendorf|ThÃ¼ringen
 
 13713|20071101|20221030|386|51.0899|7.6289|Meinerzhagen-Redlendorf|Nordrhein-Westfalen
 
@@ -1986,7 +1986,7 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 13777|20080601|20221030|110|52.2467|10.9592|Helmstedt-Emmerstedt|Niedersachsen
 
-13900|19950101|20221030|145|50.2688|9.3580|Soden,Bad-Salmünster_(Kläranlage)|Hessen
+13900|19950101|20221030|145|50.2688|9.3580|Soden,Bad-SalmÃ¼nster_(KlÃ¤ranlage)|Hessen
 
 13901|19790201|20221030|41|51.7343|7.1998|Haltern_(Wasserwerk)|Nordrhein-Westfalen
 
@@ -1994,19 +1994,19 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 13904|20080928|20081230|3|55.0000|6.3333|Nordseeboje_2|Hamburg
 
-13932|19870521|20221030|388|48.3617|13.1938|Rotthalmünster_(Landwirtschaftsamt)|Bayern
+13932|19870521|20221030|388|48.3617|13.1938|RotthalmÃ¼nster_(Landwirtschaftsamt)|Bayern
 
-13952|20090201|20221030|278|51.4089|8.0094|Arnsberg-Müschede|Nordrhein-Westfalen
+13952|20090201|20221030|278|51.4089|8.0094|Arnsberg-MÃ¼schede|Nordrhein-Westfalen
 
-13965|20081201|20221030|619|48.2639|8.8134|Balingen-Bronnhaupten|Baden-Württemberg
+13965|20081201|20221030|619|48.2639|8.8134|Balingen-Bronnhaupten|Baden-WÃ¼rttemberg
 
 14138|20090914|20170116|73|52.1655|14.1224|Falkenberg_(Grenzschichtmessfeld)|Brandenburg
 
-14311|19610101|20051231|530|50.1500|6.5528|Hersdorf-Weißenseifen|Rheinland-Pfalz
+14311|19610101|20051231|530|50.1500|6.5528|Hersdorf-WeiÃŸenseifen|Rheinland-Pfalz
 
 15000|20110401|20221030|231|50.7983|6.0244|Aachen-Orsbach|Nordrhein-Westfalen
 
-15044|20111001|20221030|199|50.4517|7.4058|Neuwied-Feldkirchen-Hüllenberg|Rheinland-Pfalz
+15044|20111001|20221030|199|50.4517|7.4058|Neuwied-Feldkirchen-HÃ¼llenberg|Rheinland-Pfalz
 
 15120|20120301|20221030|379|51.5572|8.7019|Haaren|Nordrhein-Westfalen
 
@@ -2022,11 +2022,11 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 15214|20131101|20221030|808|47.6248|10.8075|Halblech-Bayerniederhofen|Bayern
 
-15444|20140901|20221030|593|48.4418|9.9216|Ulm-Mähringen|Baden-Württemberg
+15444|20140901|20221030|593|48.4418|9.9216|Ulm-MÃ¤hringen|Baden-WÃ¼rttemberg
 
 15520|20150901|20221030|656|47.8190|12.2956|Frasdorf-Greimelberg|Bayern
 
-15547|20161001|20221030|215|49.1259|9.1428|Heilbronn/Neckar|Baden-Württemberg
+15547|20161001|20221030|215|49.1259|9.1428|Heilbronn/Neckar|Baden-WÃ¼rttemberg
 
 15555|20160501|20221030|815|47.8761|10.5849|Kaufbeuren-Oberbeuren|Bayern
 
@@ -2034,11 +2034,11 @@ Stations_id|von_datum|bis_datum|Stationshoehe|geoBreite|geoLaenge|Stationsname|B
 
 15813|20220301|20221030|40|52.5126|7.4131|Lingen-Baccum|Niedersachsen
 
-15911|20210601|20221030|278|51.1348|14.4343|Großpostwitz-Denkwitz|Sachsen
+15911|20210601|20221030|278|51.1348|14.4343|GroÃŸpostwitz-Denkwitz|Sachsen
 
-15951|19760401|20040831|280|49.2121|7.5882|Pirmasens_(Kläranlage)|Rheinland-Pfalz
+15951|19760401|20040831|280|49.2121|7.5882|Pirmasens_(KlÃ¤ranlage)|Rheinland-Pfalz
 
-15963|19540101|20041130|40|51.3258|6.5089|St._Tönis|Nordrhein-Westfalen
+15963|19540101|20041130|40|51.3258|6.5089|St._TÃ¶nis|Nordrhein-Westfalen
 
 15976|20200402|20221030|216|49.9529|8.2107|Ober-Olm/Bellem|Rheinland-Pfalz
 
