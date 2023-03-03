@@ -1,0 +1,8 @@
+The folder contains the temperature data history of the 395 kreise that could be matched to the weather stations. 
+Weather stations were kept within 100km radius of centroid of the krise. 
+The following stations do not have weather stations:
+15083 :  Börde
+1062 :  Stormarn
+9372 :  Cham
+3257 :  Schaumburg
+3455 :  Friesland
